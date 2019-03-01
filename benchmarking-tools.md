@@ -4,6 +4,7 @@
 * [apachebench (ab)](http://httpd.apache.org/docs/current/programs/ab.html)
 * [boom](https://github.com/rakyll/boom)
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
+* [molotov](https://github.com/loads/molotov)
 * [phantomas](https://github.com/macbre/phantomas)
 * [ponos](https://github.com/klarna/ponos)
 * [siege](http://www.joedog.org/siege-home/)
