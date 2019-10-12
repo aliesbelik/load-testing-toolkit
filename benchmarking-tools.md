@@ -16,3 +16,7 @@
 * [iago2](https://github.com/twitter/iago2)
 * [rpc-perf](https://github.com/twitter/rpc-perf)
 * [gohttpbench](https://github.com/parkghost/gohttpbench)
+
+## Stress testing
+*Tools to stress-test your code or services*
+* [hulken](https://github.com/hellgrenj/hulken)
