@@ -7,7 +7,7 @@
 * [httperf](https://github.com/httperf/httperf)
 * [molotov](https://github.com/loads/molotov)
 * [phantomas](https://github.com/macbre/phantomas)
-* [ponos](https://github.com/klarna/ponos)
+* [ponos](https://github.com/klarna/ponos) - Simple yet powerful load generator written in Erlang.
 * [siege](http://www.joedog.org/siege-home/)
 * [vegeta](https://github.com/tsenart/vegeta)
 * [sniper](https://github.com/btfak/sniper)
@@ -16,7 +16,8 @@
 * [iago2](https://github.com/twitter/iago2)
 * [rpc-perf](https://github.com/twitter/rpc-perf)
 * [gohttpbench](https://github.com/parkghost/gohttpbench)
+* [tcpkali](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator.
 
 ## Stress testing
 *Tools to stress-test your code or services*
-* [hulken](https://github.com/hellgrenj/hulken)
+* [hulken](https://github.com/hellgrenj/hulken) - Stress testing tool for everything speaking HTTP.
