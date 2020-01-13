@@ -17,7 +17,9 @@
 * [rpc-perf](https://github.com/twitter/rpc-perf)
 * [gohttpbench](https://github.com/parkghost/gohttpbench)
 * [tcpkali](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator.
+* [pronk](https://github.com/bos/pronk) - A small command line application for load testing web servers (Haskell).
 
 ## Stress testing
 *Tools to stress-test your code or services*
+
 * [hulken](https://github.com/hellgrenj/hulken) - Stress testing tool for everything speaking HTTP.
