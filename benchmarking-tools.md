@@ -24,7 +24,7 @@
 * [__k6__](https://github.com/loadimpact/k6) - A modern load testing tool, using `Go` and `JavaScript`.
 * [__bender__](https://github.com/pinterest/bender) - An easy-to-use library for creating load testing applications (Pinterest). `Go` 
 
-### non-HTTP(S)
+### NON-HTTP(S)
 
 * [__rpc-perf__](https://github.com/twitter/rpc-perf) - A tool for benchmarking RPC services (Twitter). `Rust`
 * [__tcpkali__](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator. `C`
@@ -32,4 +32,10 @@
 ## Stress testing
 *Tools to stress-test your code or services*
 
+### HTTP(S)
+
 * [__hulken__](https://github.com/hellgrenj/hulken) - Stress testing tool for everything speaking HTTP. `JavaScript`
+
+### NON-HTTP(S)
+
+* [__mqtt-stresser__](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker. `Go`
