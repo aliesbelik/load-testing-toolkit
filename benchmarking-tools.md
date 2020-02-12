@@ -1,7 +1,7 @@
 ## Benchmarking & load testing
 *Tools to benchmark & load-test your code or services*
 
-### HTTP(S)
+### http(s)
 
 * [__apachebench (ab)__](https://github.com/CloudFundoo/ApacheBench-ab) - Standalone [apachebench (ab)](http://httpd.apache.org/docs/current/programs/ab.html), Apache HTTP server benchmarking tool. `C`
 * [__httperf__](https://github.com/httperf/httperf) - A tool for measuring web server performance. `C`
@@ -24,7 +24,7 @@
 * [__k6__](https://github.com/loadimpact/k6) - A modern load testing tool, using `Go` and `JavaScript`.
 * [__bender__](https://github.com/pinterest/bender) - An easy-to-use library for creating load testing applications (Pinterest). `Go` 
 
-### NON-HTTP(S)
+### non-http(s)
 
 * [__rpc-perf__](https://github.com/twitter/rpc-perf) - A tool for benchmarking RPC services (Twitter). `Rust`
 * [__tcpkali__](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator. `C`
@@ -32,10 +32,10 @@
 ## Stress testing
 *Tools to stress-test your code or services*
 
-### HTTP(S)
+### http(s)
 
 * [__hulken__](https://github.com/hellgrenj/hulken) - Stress testing tool for everything speaking HTTP. `JavaScript`
 
-### NON-HTTP(S)
+### non-http(s)
 
 * [__mqtt-stresser__](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker. `Go`
