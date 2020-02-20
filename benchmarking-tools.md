@@ -28,6 +28,7 @@
 
 * [__rpc-perf__](https://github.com/twitter/rpc-perf) - A tool for benchmarking RPC services (Twitter). `Rust`
 * [__tcpkali__](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator. `C`
+* [__massive-attack__](https://github.com/delprks/massive-attack) - Load testing Thrift, made simple. `Scala`
 
 ## Stress testing
 *Tools to stress-test your code or services*
