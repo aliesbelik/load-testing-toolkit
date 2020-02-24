@@ -22,7 +22,8 @@
 * [__pronk__](https://github.com/bos/pronk) - A small command line application for load testing web servers. `Haskell`
 * [__slow_cooker__](https://github.com/BuoyantIO/slow_cooker) - A load tester focused on lifecycle issues and long-running tests. `Go`
 * [__k6__](https://github.com/loadimpact/k6) - A modern load testing tool, using `Go` and `JavaScript`.
-* [__bender__](https://github.com/pinterest/bender) - An easy-to-use library for creating load testing applications (Pinterest). `Go` 
+* [__bender__](https://github.com/pinterest/bender) - An easy-to-use library for creating load testing applications (Pinterest). `Go`
+* [__bombardier__](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in `Go`.
 
 ### non-http(s)
 
