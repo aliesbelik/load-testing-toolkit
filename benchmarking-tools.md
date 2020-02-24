@@ -16,7 +16,7 @@
 * [__vegeta__](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. `Go`
 * [__sniper__](https://github.com/btfak/sniper) - Powerful and high-performance HTTP load tester, written in `Go`.
 * [__wrk__](https://github.com/wg/wrk) - Modern HTTP benchmarking tool. `C`
-* [__go-wrk__](https://github.com/adjust/go-wrk) - A small heavy duty HTTP(S) benchmark tool, similar to [wrk](https://github.com/wg/wrk), but written in `Go`.
+* [__go-wrk__](https://github.com/adjust/go-wrk) - A small heavy duty HTTP/S benchmark tool, similar to [wrk](https://github.com/wg/wrk), but written in `Go`.
 * [__drill__](https://github.com/fcsonline/drill) - A HTTP load testing application, written in `Rust`, inspired by Ansible syntax. 
 * [__iago2__](https://github.com/twitter/iago2) - A load generator, built for engineers (Twitter). `Scala`
 * [__gohttpbench__](https://github.com/parkghost/gohttpbench) - An [ab](https://github.com/CloudFundoo/ApacheBench-ab)-like benchmark tool run on multi-core cpu. `Go`
@@ -29,6 +29,11 @@
 * [__vex__](https://github.com/vamsiikrishna/vex) - A small `PHP` app that sends some load to a web application.
 * [__carrot__](https://github.com/gophercarrot/carrot) - Distributed WebSocket and HTTP load-testing framework in `Go`.
 * [__hargo__](https://github.com/mrichman/hargo) - `Go` library and cli utility that parses HAR files, can convert to curl format, and serve as a load test driver.
+* [__goku__](https://github.com/k-nasa/goku) - HTTP load testing application written in `Rust`.
+* [__scouter__](https://github.com/jbarabander/scouter) - `Node.js` bindings for the [vegeta](https://github.com/tsenart/vegeta) load-testing library.
+* [__hurl__](https://github.com/VerizonDigital/hurl) - HTTP server load test and parallel curl utilities. `C++`
+* [__chaperon__](https://github.com/polleverywhere/chaperon) - HTTP service performance & load testing framework. `Elixir`
+* [__bfg__](https://github.com/yandex-load/bfg) - A modular tool and framework for load generation with HTTP/2 support. `Python`
 
 ### non-http/s
 
@@ -50,3 +55,4 @@
 ### non-http/s
 
 * [__mqtt-stresser__](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker. `Go`
+* [__dhammer__](https://github.com/ipchama/dhammer) - DHCP stress tester and benchmark tool. `Go`
