@@ -51,8 +51,10 @@
 
 * [__hulken__](https://github.com/hellgrenj/hulken) - Stress testing tool for everything speaking HTTP. `JavaScript`
 * [__pewpew__](https://github.com/bengadbois/pewpew) - Flexible HTTP command-line stress tester for websites and web services. `Go`
+* [__wreckuests__](https://github.com/JamesJGoodwin/wreckuests) - Yet another one hard-hitting tool to run DDoS atacks with HTTP-flood. `Python`
 
 ### non-http/s
 
 * [__mqtt-stresser__](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker. `Go`
 * [__dhammer__](https://github.com/ipchama/dhammer) - DHCP stress tester and benchmark tool. `Go`
+* [__dnstress__](https://github.com/safedns/dnstress) - A DNS stress testing tool. `C`
