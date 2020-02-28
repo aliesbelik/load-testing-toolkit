@@ -20,6 +20,7 @@
 * [__drill__](https://github.com/fcsonline/drill) - A HTTP load testing application, written in `Rust`, inspired by Ansible syntax. 
 * [__iago2__](https://github.com/twitter/iago2) - A load generator, built for engineers (Twitter). `Scala`
 * [__gohttpbench__](https://github.com/parkghost/gohttpbench) - An [ab](https://github.com/CloudFundoo/ApacheBench-ab)-like benchmark tool run on multi-core cpu. `Go`
+* [__gobench__](https://github.com/cmpxchg16/gobench) - HTTP/S load testing and benchmarking tool. `Go`
 * [__pronk__](https://github.com/bos/pronk) - A small command line application for load testing web servers. `Haskell`
 * [__slow_cooker__](https://github.com/BuoyantIO/slow_cooker) - A load tester focused on lifecycle issues and long-running tests. `Go`
 * [__k6__](https://github.com/loadimpact/k6) - A modern load testing tool, using `Go` and `JavaScript`.
