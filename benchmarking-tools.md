@@ -16,6 +16,7 @@
 * [__vegeta__](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. `Go`
 * [__sniper__](https://github.com/btfak/sniper) - Powerful and high-performance HTTP load tester, written in `Go`.
 * [__wrk__](https://github.com/wg/wrk) - Modern HTTP benchmarking tool. `C`
+* [__wrk2__](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of [wrk](https://github.com/wg/wrk). `C`
 * [__go-wrk__](https://github.com/adjust/go-wrk) - A small heavy duty HTTP/S benchmark tool, similar to [wrk](https://github.com/wg/wrk), but written in `Go`.
 * [__drill__](https://github.com/fcsonline/drill) - A HTTP load testing application, written in `Rust`, inspired by Ansible syntax. 
 * [__iago2__](https://github.com/twitter/iago2) - A load generator, built for engineers (Twitter). `Scala`
@@ -35,6 +36,7 @@
 * [__hurl__](https://github.com/VerizonDigital/hurl) - HTTP server load test and parallel curl utilities. `C++`
 * [__chaperon__](https://github.com/polleverywhere/chaperon) - HTTP service performance & load testing framework. `Elixir`
 * [__bfg__](https://github.com/yandex-load/bfg) - A modular tool and framework for load generation with HTTP/2 support. `Python`
+* [__autocannon__](https://github.com/mcollina/autocannon) - Fast HTTP/1.1 benchmarking tool written in `Node.js`, greatly inspired by [wrk](https://github.com/wg/wrk) and [wrk2](https://github.com/giltene/wrk2), with support for HTTP pipelining and HTTPS. 
 
 ### non-http/s
 
