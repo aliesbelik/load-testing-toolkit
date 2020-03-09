@@ -1,5 +1,8 @@
+# Load testing toolkit
+
+Collection of tools for benchmarking, load and stress testing your code or services.
+
 ## Benchmarking & load testing
-*Tools to benchmark & load-test your code or services*
 
 ### http/s
 
@@ -18,7 +21,7 @@
 * [__wrk__](https://github.com/wg/wrk) - Modern HTTP benchmarking tool. `C`
 * [__wrk2__](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of [wrk](https://github.com/wg/wrk). `C`
 * [__go-wrk__](https://github.com/adjust/go-wrk) - A small heavy duty HTTP/S benchmark tool, similar to [wrk](https://github.com/wg/wrk), but written in `Go`.
-* [__drill__](https://github.com/fcsonline/drill) - A HTTP load testing application, written in `Rust`, inspired by Ansible syntax. 
+* [__drill__](https://github.com/fcsonline/drill) - A HTTP load testing application, written in `Rust`, inspired by Ansible syntax.
 * [__iago2__](https://github.com/twitter/iago2) - A load generator, built for engineers (Twitter). `Scala`
 * [__gohttpbench__](https://github.com/parkghost/gohttpbench) - An [ab](https://github.com/CloudFundoo/ApacheBench-ab)-like benchmark tool run on multi-core cpu. `Go`
 * [__gobench__](https://github.com/cmpxchg16/gobench) - HTTP/S load testing and benchmarking tool. `Go`
@@ -50,13 +53,14 @@
 * [__mqperf__](https://github.com/softwaremill/mqperf) - A benchmark of message queues with data replication and at-least-once delivery guarantees. `Scala`
 
 ## Stress testing
-*Tools to stress-test your code or services*
+
+Tools to stress-test your code or services.
 
 ### http/s
 
 * [__hulken__](https://github.com/hellgrenj/hulken) - Stress testing tool for everything speaking HTTP. `JavaScript`
 * [__pewpew__](https://github.com/bengadbois/pewpew) - Flexible HTTP command-line stress tester for websites and web services. `Go`
-* [__wreckuests__](https://github.com/JamesJGoodwin/wreckuests) - Yet another one hard-hitting tool to run DDoS atacks with HTTP-flood. `Python`
+* [__wreckuests__](https://github.com/JamesJGoodwin/wreckuests) - Yet another one hard-hitting tool to run DDoS attacks with HTTP-flood. `Python`
 
 ### non-http/s
 
