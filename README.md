@@ -4,13 +4,19 @@ Collection of *open source* tools for debugging, benchmarking, load and stress t
 
 > In alphabetical order.
 
+## Contents
+
+* [Debugging & API testing](#debugging--api-testing)
+* [Benchmarking & load testing](#benchmarking--load-testing)
+* [Stress testing](#stress-testing)
+
 ## Debugging & API testing
 
 * [__bat__](https://github.com/astaxie/bat) - A [curl](https://github.com/curl/curl)-like tool for humans, inspired by [httpie](https://github.com/jakubroztocil/httpie), written in `Go`.
 * [__curl__](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax. `C`
 * [__curlie__](https://github.com/rs/curlie) - The power of [curl](https://github.com/curl/curl), the ease of use of [httpie](https://github.com/jakubroztocil/httpie). `Go`
 * [__httpcat__](https://github.com/jakubroztocil/httpcat) - A simple utility for constructing raw HTTP requests on the command line. `Python`
-* [__httpie__](https://github.com/jakubroztocil/httpie) - Modern command-line HTTP client, user-friendly [curl](https://github.com/curl/curl) alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. `Python`
+* [__httpie__](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client, user-friendly [curl](https://github.com/curl/curl) alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. `Python`
 * [__httpstat__](https://github.com/reorx/httpstat) - [curl](https://github.com/curl/curl) statistics visualization in a way of beauty and clarity. `Python`
 
 ## Benchmarking & load testing
@@ -34,7 +40,7 @@ Collection of *open source* tools for debugging, benchmarking, load and stress t
 * [__gobench__](https://github.com/cmpxchg16/gobench) - HTTP/S load testing and benchmarking tool. `Go`
 * [__gohttpbench__](https://github.com/parkghost/gohttpbench) - An [ab](https://github.com/CloudFundoo/ApacheBench-ab)-like benchmark tool run on multi-core cpu. `Go`
 * [__goku__](https://github.com/k-nasa/goku) - HTTP load testing application written in `Rust`.
-* [__hargo__](https://github.com/mrichman/hargo) - `Go` library and cli utility that parses HAR files, can convert to [curl](https://github.com/curl/curl) format, and serve as a load test driver.
+* [__hargo__](https://github.com/mrichman/hargo) - `Go` library and command line utility that parses HAR files, can convert to [curl](https://github.com/curl/curl) format, and serve as a load test driver.
 * [__hey__](https://github.com/rakyll/hey) - HTTP load generator, [ab](https://github.com/CloudFundoo/ApacheBench-ab) replacement. `Go`
 * [__httperf__](https://github.com/httperf/httperf) - A tool for measuring web server performance. `C`
 * [__hurl__](https://github.com/VerizonDigital/hurl) - HTTP server load test and parallel [curl](https://github.com/curl/curl) utilities. `C++`
@@ -71,7 +77,7 @@ Collection of *open source* tools for debugging, benchmarking, load and stress t
 ### http/s
 
 * [__hulken__](https://github.com/hellgrenj/hulken) - Stress testing tool for everything speaking HTTP. `JavaScript`
-* [__pewpew__](https://github.com/bengadbois/pewpew) - Flexible HTTP command-line stress tester for websites and web services. `Go`
+* [__pewpew__](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester for websites and web services. `Go`
 * [__wreckuests__](https://github.com/JamesJGoodwin/wreckuests) - Yet another one hard-hitting tool to run DDoS attacks with HTTP-flood. `Python`
 
 ### non-http/s
