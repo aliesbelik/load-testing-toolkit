@@ -17,6 +17,7 @@ Collection of *open source* tools for debugging, benchmarking, load and stress t
 * [__curlie__](https://github.com/rs/curlie) - The power of [curl](https://github.com/curl/curl), the ease of use of [httpie](https://github.com/jakubroztocil/httpie). `Go`
 * [__httpcat__](https://github.com/jakubroztocil/httpcat) - A simple utility for constructing raw HTTP requests on the command line. `Python`
 * [__httpie__](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client, user-friendly [curl](https://github.com/curl/curl) alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. `Python`
+* [__httping__](https://github.com/flok99/httping) - A ping-like utility for HTTP requests.
 * [__httpstat__](https://github.com/reorx/httpstat) - [curl](https://github.com/curl/curl) statistics visualization in a way of beauty and clarity. `Python`
 
 ## Benchmarking & load testing
@@ -25,6 +26,7 @@ Collection of *open source* tools for debugging, benchmarking, load and stress t
 
 * [__apachebench (ab)__](https://github.com/CloudFundoo/ApacheBench-ab) - Standalone [apachebench (ab)](http://httpd.apache.org/docs/current/programs/ab.html), Apache HTTP server benchmarking tool. `C`
 * [__autocannon__](https://github.com/mcollina/autocannon) - Fast HTTP/1.1 benchmarking tool written in `Node.js`, greatly inspired by [wrk](https://github.com/wg/wrk) and [wrk2](https://github.com/giltene/wrk2), with support for HTTP pipelining and HTTPS.
+* [__beeswithmachineguns__](https://github.com/newsapps/beeswithmachineguns) - An utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications). `Python`
 * [__bender__](https://github.com/pinterest/bender) - An easy-to-use library for creating load testing applications. `Go`
 * [__bfg__](https://github.com/yandex-load/bfg) - A modular tool and framework for load generation with HTTP/2 support. `Python`
 * [__bombardier__](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in `Go`.
@@ -43,27 +45,35 @@ Collection of *open source* tools for debugging, benchmarking, load and stress t
 * [__hargo__](https://github.com/mrichman/hargo) - `Go` library and command line utility that parses HAR files, can convert to [curl](https://github.com/curl/curl) format, and serve as a load test driver.
 * [__hey__](https://github.com/rakyll/hey) - HTTP load generator, [ab](https://github.com/CloudFundoo/ApacheBench-ab) replacement. `Go`
 * [__httperf__](https://github.com/httperf/httperf) - A tool for measuring web server performance. `C`
+* [__httpress__](https://bitbucket.org/yarosla/httpress) - High performance HTTP server stress & benchmark utility, inspired by [weighttp](https://github.com/lighttpd/weighttp). `C`
 * [__hurl__](https://github.com/VerizonDigital/hurl) - HTTP server load test and parallel [curl](https://github.com/curl/curl) utilities. `C++`
 * [__iago2__](https://github.com/twitter/iago2) - A load generator, built for engineers. `Scala`
 * [__k6__](https://github.com/loadimpact/k6) - A modern load testing tool, using `Go` and `JavaScript`.
 * [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
+* [__mgun__](https://github.com/byorty/mgun) - A modern tool for load testing HTTP servers, written in `Go`.
 * [__molotov__](https://github.com/loads/molotov) - Simple `Python` 3.5+ tool to write load tests.
 * [__mzbench__](https://github.com/satori-com/mzbench) - Expressive, scalable load testing tool, with multiple protocols support. `Erlang`
+* [__oha__](https://github.com/hatoo/oha) - HTTP load generator, inspired by [hey](https://github.com/rakyll/hey) with tui animation. `Rust`
 * [__pandora__](https://github.com/yandex/pandora) - A load generator in `Go`, with built-in HTTP/S and HTTP/2 support and load scenarios in `Go`.
 * [__phantomas__](https://github.com/macbre/phantomas) - PhantomJS-based web performance metrics collector and monitoring tool. `JavaScript`
 * [__ponos__](https://github.com/klarna/ponos) - Simple yet powerful load generator written in `Erlang`.
 * [__pronk__](https://github.com/bos/pronk) - A small command line application for load testing web servers. `Haskell`
 * [__scouter__](https://github.com/jbarabander/scouter) - `Node.js` bindings for the [vegeta](https://github.com/tsenart/vegeta) load-testing library.
 * [__siege__](https://github.com/JoeDog/siege) - A HTTP load tester and benchmarking utility. `C`
+* [__slapper__](https://github.com/ikruglov/slapper) - Simple load testing tool with real-time updated histogram of request timings. `Go`
 * [__slow_cooker__](https://github.com/BuoyantIO/slow_cooker) - A load tester focused on lifecycle issues and long-running tests. `Go`
 * [__sniper__](https://github.com/btfak/sniper) - Powerful and high-performance HTTP load tester, written in `Go`.
+* [__thrash__](https://github.com/TylerBrock/thrash) - `Go` HTTP micro benchmarker.
 * [__vegeta__](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. `Go`
 * [__vex__](https://github.com/vamsiikrishna/vex) - A small `PHP` app that sends some load to a web application.
+* [__weighttp__](https://github.com/lighttpd/weighttp) - A lightweight and simple webserver benchmarking tool. `C`
+* [__welle__](https://github.com/rylev/welle) - [ab](https://github.com/CloudFundoo/ApacheBench-ab)-like benchmarking  tool written in `Rust`.
 * [__wrk__](https://github.com/wg/wrk) - Modern HTTP benchmarking tool. `C`
 * [__wrk2__](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of [wrk](https://github.com/wg/wrk). `C`
 
 ### non-http/s
 
+* [__bomberman__](https://github.com/c1982/bomberman) - SMTP performance and load testing tool. `Go`
 * [__massive-attack__](https://github.com/delprks/massive-attack) - Load testing Thrift, made simple. `Scala`
 * [__memtier_benchmark__](https://github.com/RedisLabs/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool. `C++`
 * [__mqperf__](https://github.com/softwaremill/mqperf) - A benchmark of message queues with data replication and at-least-once delivery guarantees. `Scala`
