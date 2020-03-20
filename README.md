@@ -9,6 +9,7 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 * [Debugging & API testing](#debugging--api-testing)
 * [Benchmarking & load testing](#benchmarking--load-testing)
 * [Stress testing](#stress-testing)
+* [DoS/DDoS penetration testing](#dosddos-penetration-testing)
 
 ## Debugging & API testing
 
@@ -100,10 +101,20 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 
 * [__hulken__](https://github.com/hellgrenj/hulken) - Stress testing tool for everything speaking HTTP. `JavaScript`
 * [__pewpew__](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester for websites and web services. `Go`
-* [__wreckuests__](https://github.com/JamesJGoodwin/wreckuests) - Yet another one hard-hitting tool to run DDoS attacks with HTTP-flood. `Python`
 
 ### non-http/s
 
 * [__dhammer__](https://github.com/ipchama/dhammer) - DHCP stress tester and benchmark tool. `Go`
 * [__dnstress__](https://github.com/safedns/dnstress) - A DNS stress testing tool. `C`
 * [__mqtt-stresser__](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker. `Go`
+
+## DoS/DDoS penetration testing
+
+> For educational and stress testing (as part of development) purposes only.
+
+* [__finshir__](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic sender, written in `Rust`.
+* [__goloris__](https://github.com/valyala/goloris) - Slowloris implementation for nginx DoS written in `Go`.
+* [__hulk__](https://github.com/grafov/hulk) - Original HULK web server DoS attack tool ported to `Go` with some additional features.
+* [__lor-axe__](https://github.com/ajmwagar/lor-axe) - A multi-threaded, low-bandwidth HTTP DoS tool, written in `Rust`.
+* [__slowhttptest__](https://github.com/shekyan/slowhttptest) - A highly configurable application layer DoS attack simulator. `C++`
+* [__wreckuests__](https://github.com/JamesJGoodwin/wreckuests) - Yet another one hard-hitting tool to run DDoS attacks with HTTP-flood. `Python`
