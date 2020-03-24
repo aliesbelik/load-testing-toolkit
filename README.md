@@ -78,7 +78,9 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 * [__mqperf__](https://github.com/softwaremill/mqperf) - A benchmark of message queues with data replication and at-least-once delivery guarantees. `Scala`
 * [__rabbitmq-perf-test__](https://github.com/rabbitmq/rabbitmq-perf-test) - RabbitMQ performance testing tool. `Java`
 * [__rpc-perf__](https://github.com/twitter/rpc-perf) - A tool for benchmarking RPC services. `Rust`
+* [__rtmp_load__](https://github.com/fillest/rtmp_load) - A load testing tool for RTMP servers. `C`
 * [__sangrenel__](https://github.com/jamiealquiza/sangrenel) - Apache Kafka load testing. `Go`
+* [__srs-bench__](https://github.com/ossrs/srs-bench) - A HTTP/RTMP/HLS load testing and benchmarking tool. `C++`
 * [__tcpkali__](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator. `C`
 
 ### multi-protocol
