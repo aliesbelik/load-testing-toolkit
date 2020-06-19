@@ -117,6 +117,7 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 * [__finshir__](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic sender, written in `Rust`.
 * [__goloris__](https://github.com/valyala/goloris) - Slowloris implementation for nginx DoS written in `Go`.
 * [__hulk__](https://github.com/grafov/hulk) - Original HULK web server DoS attack tool ported to `Go` with some additional features.
+* [__hulk-v3__](https://github.com/Hyperclaw79/HULK-v3) - `Python 3` compatible async HULK script for DDoS attacks.
 * [__lor-axe__](https://github.com/ajmwagar/lor-axe) - A multi-threaded, low-bandwidth HTTP DoS tool, written in `Rust`.
 * [__slowhttptest__](https://github.com/shekyan/slowhttptest) - A highly configurable application layer DoS attack simulator. `C++`
 * [__wreckuests__](https://github.com/JamesJGoodwin/wreckuests) - Yet another one hard-hitting tool to run DDoS attacks with HTTP-flood. `Python`
