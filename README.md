@@ -97,6 +97,11 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 * [__tsung__](https://github.com/processone/tsung) - A multi-protocol distributed load testing tool, developed in `Erlang`.
 * [__yandex-tank__](https://github.com/yandex/yandex-tank) - An extendable load testing tool which is especially good as a part of an automated load testing suite. `Python`, `C`
 
+### storage
+
+* [__ycsb__](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark (YCSB), a framework and common set of workloads for evaluating the performance of different "key-value" and "cloud" serving stores. `Java`
+* [__go-ycsb__](https://github.com/pingcap/go-ycsb) - A Go port of Yahoo! Cloud Serving Benchmark ([YCSB](https://github.com/brianfrankcooper/YCSB)). `Go`
+
 ## Stress testing
 
 ### http/s
