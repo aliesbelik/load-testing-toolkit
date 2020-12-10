@@ -52,6 +52,7 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 * [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
 * [__mgun__](https://github.com/byorty/mgun) - A modern tool for load testing HTTP servers, written in `Go`.
 * [__molotov__](https://github.com/loads/molotov) - Simple `Python` 3.5+ tool to write load tests.
+* [__netling__](https://github.com/hallatore/netling) - Load testing client for easy web testing. `C#`
 * [__oha__](https://github.com/hatoo/oha) - HTTP load generator, inspired by [hey](https://github.com/rakyll/hey) with tui animation. `Rust`
 * [__pandora__](https://github.com/yandex/pandora) - A load generator in `Go`, with built-in HTTP/S and HTTP/2 support and load scenarios in `Go`.
 * [__phantomas__](https://github.com/macbre/phantomas) - PhantomJS-based web performance metrics collector and monitoring tool. `JavaScript`
