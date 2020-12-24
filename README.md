@@ -18,7 +18,7 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 * [__curlie__](https://github.com/rs/curlie) - The power of [curl](https://github.com/curl/curl), the ease of use of [httpie](https://github.com/jakubroztocil/httpie). `Go`
 * [__httpcat__](https://github.com/jakubroztocil/httpcat) - A simple utility for constructing raw HTTP requests on the command line. `Python`
 * [__httpie__](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client, user-friendly [curl](https://github.com/curl/curl) alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. `Python`
-* [__httping__](https://github.com/flok99/httping) - A ping-like utility for HTTP requests.
+* [__httping__](https://github.com/flok99/httping) - A ping-like utility for HTTP requests. `C`
 * [__httpstat__](https://github.com/reorx/httpstat) - [curl](https://github.com/curl/curl) statistics visualization in a way of beauty and clarity. `Python`
 
 ## Benchmarking & load testing
@@ -127,9 +127,10 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 > For educational and stress testing (as part of development) purposes only.
 
 * [__finshir__](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic sender, written in `Rust`.
-* [__goloris__](https://github.com/valyala/goloris) - Slowloris implementation for nginx DoS written in `Go`.
+* [__goloris__](https://github.com/valyala/goloris) - [Slowloris](https://github.com/gkbrk/slowloris) implementation for nginx DoS written in `Go`.
 * [__hulk__](https://github.com/grafov/hulk) - Original HULK web server DoS attack tool ported to `Go` with some additional features.
-* [__hulk-v3__](https://github.com/Hyperclaw79/HULK-v3) - `Python 3` compatible async HULK script for DDoS attacks.
+* [__hulk-v3__](https://github.com/Hyperclaw79/HULK-v3) - `Python` 3 compatible async HULK script for DDoS attacks.
 * [__lor-axe__](https://github.com/ajmwagar/lor-axe) - A multi-threaded, low-bandwidth HTTP DoS tool, written in `Rust`.
 * [__slowhttptest__](https://github.com/shekyan/slowhttptest) - A highly configurable application layer DoS attack simulator. `C++`
+* [__slowloris__](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool, rewrite in `Python`.
 * [__wreckuests__](https://github.com/JamesJGoodwin/wreckuests) - Yet another one hard-hitting tool to run DDoS attacks with HTTP-flood. `Python`
