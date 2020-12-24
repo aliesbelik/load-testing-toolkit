@@ -37,6 +37,7 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 * [__cassowary__](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in `Go`.
 * [__chaperon__](https://github.com/polleverywhere/chaperon) - HTTP service performance & load testing framework. `Elixir`
 * [__drill__](https://github.com/fcsonline/drill) - A HTTP load testing application, written in `Rust`, inspired by Ansible syntax.
+* [__f1__](https://github.com/form3tech-oss/f1) - A flexible load testing framework using `Go` for test scenarios.
 * [__fortio__](https://github.com/fortio/fortio) - Load testing library, command line tool, advanced echo server and web UI in `Go`.
 * [__freeloader__](https://github.com/rprieto/freeloader) - Super easy load testing framework, with load scenarios in `JavaScript`.
 * [__go-wrk__](https://github.com/adjust/go-wrk) - A small heavy duty HTTP/S benchmark tool, similar to [wrk](https://github.com/wg/wrk), but written in `Go`.
