@@ -25,6 +25,7 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 
 ### http/s
 
+* [__ali__](https://github.com/nakabonne/ali) - A load testing tool capable of performing real-time analysis, inspired by [vegeta](https://github.com/tsenart/vegeta), written in `Go`.
 * [__apachebench (ab)__](https://github.com/CloudFundoo/ApacheBench-ab) - Standalone [apachebench (ab)](http://httpd.apache.org/docs/current/programs/ab.html), Apache HTTP server benchmarking tool. `C`
 * [__autocannon__](https://github.com/mcollina/autocannon) - Fast HTTP/1.1 benchmarking tool written in `Node.js`, greatly inspired by [wrk](https://github.com/wg/wrk) and [wrk2](https://github.com/giltene/wrk2), with support for HTTP pipelining and HTTPS.
 * [__beeswithmachineguns__](https://github.com/newsapps/beeswithmachineguns) - An utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications). `Python`
