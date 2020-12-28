@@ -45,6 +45,7 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 * [__gobench__](https://github.com/cmpxchg16/gobench) - HTTP/S load testing and benchmarking tool. `Go`
 * [__gohttpbench__](https://github.com/parkghost/gohttpbench) - An [ab](https://github.com/CloudFundoo/ApacheBench-ab)-like benchmark tool run on multi-core cpu. `Go`
 * [__goku__](https://github.com/k-nasa/goku) - HTTP load testing application written in `Rust`.
+* [__goose__](https://github.com/tag1consulting/goose) - A `Rust` load testing tool inspired by [locust](https://github.com/locustio/locust).
 * [__hargo__](https://github.com/mrichman/hargo) - `Go` library and command line utility that parses HAR files, can convert to [curl](https://github.com/curl/curl) format, and serve as a load test driver.
 * [__hey__](https://github.com/rakyll/hey) - HTTP load generator, [ab](https://github.com/CloudFundoo/ApacheBench-ab) replacement. `Go`
 * [__httperf__](https://github.com/httperf/httperf) - A tool for measuring web server performance. `C`
