@@ -77,6 +77,7 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 
 ### non-http/s
 
+* [__amoc__](https://github.com/esl/amoc) - A simple framework for running massively parallel XMPP tests in a distributed environment. `Erlang`
 * [__bench__](https://github.com/tylertreat/bench) - A generic latency benchmarking library. `Go`
 * [__bomberman__](https://github.com/c1982/bomberman) - SMTP performance and load testing tool. `Go`
 * [__flotilla__](https://github.com/tylertreat/Flotilla) - Automated message queue orchestration for scaled-up benchmarking. `Go`
