@@ -108,6 +108,7 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 
 ### storage
 
+* [__ioarena__](https://github.com/pmwkaa/ioarena) - Embedded storage benchmarking tool. `C`
 * [__cosbench__](https://github.com/intel-cloud/cosbench) - A benchmark tool for cloud object storage service. `Java`
 * [__go-ycsb__](https://github.com/pingcap/go-ycsb) - A Go port of Yahoo! Cloud Serving Benchmark ([YCSB](https://github.com/brianfrankcooper/YCSB)). `Go`
 * [__mongoose__](https://github.com/emc-mongoose/mongoose) - Distributed storage performance testing tool. `Java`
