@@ -20,6 +20,7 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 * [__httpie__](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client, user-friendly [curl](https://github.com/curl/curl) alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. `Python`
 * [__httping__](https://github.com/flok99/httping) - A ping-like utility for HTTP requests. `C`
 * [__httpstat__](https://github.com/reorx/httpstat) - [curl](https://github.com/curl/curl) statistics visualization in a way of beauty and clarity. `Python`
+* [__xh__](https://github.com/ducaale/xh) – Yet another [httpie](https://github.com/jakubroztocil/httpie) clone in `Rust`.
 
 ## Benchmarking & load testing
 
