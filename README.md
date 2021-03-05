@@ -55,6 +55,7 @@ Collection of **open source** tools for debugging, benchmarking, load and stress
 * [__hurl__](https://github.com/VerizonDigital/hurl) - HTTP server load test and parallel [curl](https://github.com/curl/curl) utilities. `C++`
 * [__iago2__](https://github.com/twitter/iago2) - A load generator, built for engineers. `Scala`
 * [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
+* [__legion__](https://github.com/lane-webperformance/legion) - A `JavaScript`-based load testing tool for HTTP servers and other kinds of software.
 * [__mgun__](https://github.com/byorty/mgun) - A modern tool for load testing HTTP servers, written in `Go`.
 * [__molotov__](https://github.com/loads/molotov) - Simple `Python` 3.5+ tool to write load tests.
 * [__netling__](https://github.com/hallatore/netling) - Load testing client for easy web testing. `C#`
