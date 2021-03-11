@@ -2,6 +2,9 @@
 
 Collection of **open source** tools for debugging, benchmarking, load and stress testing your code or services.
 
+**NOTE:** Unfortunately I've found this original *awesome* collection too late: [__awesome-http-benchmark__](https://github.com/denji/awesome-http-benchmark).\
+Feel free to follow it and contribute to it instead of this collection, which remains my personal variation and working copy.
+
 > In alphabetical order.
 
 ## Contents
