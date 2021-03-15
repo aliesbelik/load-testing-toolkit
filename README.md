@@ -3,7 +3,7 @@
 Collection of **open source** tools for debugging, benchmarking, load and stress testing your code or services.
 
 **NOTE:** Unfortunately I've found this original *awesome* collection too late: [__awesome-http-benchmark__](https://github.com/denji/awesome-http-benchmark).\
-Feel free to follow it and contribute to it instead of this collection, which remains my personal variation and working copy.
+Feel free to follow and contribute to it instead of this collection, which remains my personal variation and working copy.
 
 > In alphabetical order.
 
@@ -61,6 +61,7 @@ Feel free to follow it and contribute to it instead of this collection, which re
 * [__legion__](https://github.com/lane-webperformance/legion) - A `JavaScript`-based load testing tool for HTTP servers and other kinds of software.
 * [__mgun__](https://github.com/byorty/mgun) - A modern tool for load testing HTTP servers, written in `Go`.
 * [__molotov__](https://github.com/loads/molotov) - Simple `Python` 3.5+ tool to write load tests.
+* [__nbomber__](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios, written in `F#` and targeting .NET Core and full .NET Framework.
 * [__netling__](https://github.com/hallatore/netling) - Load testing client for easy web testing. `C#`
 * [__oha__](https://github.com/hatoo/oha) - HTTP load generator, inspired by [hey](https://github.com/rakyll/hey) with tui animation. `Rust`
 * [__pandora__](https://github.com/yandex/pandora) - A load generator in `Go`, with built-in HTTP/S and HTTP/2 support and load scenarios in `Go`.
