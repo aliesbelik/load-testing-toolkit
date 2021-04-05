@@ -106,7 +106,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__gatling__](https://github.com/gatling/gatling) - A load and performance testing framework based on `Scala`, Akka and Netty.
 * [__grinder__](https://github.com/cossme/grinder) - A distributed load testing framework written in `Java`, with test scenario scripting in `Jython` and `Clojure`.
 * [__jmeter__](https://github.com/apache/jmeter) - A `Java` tool designed to load test functional behavior and measure performance of a variety of services, with a focus on web applications.
-* [__k6__](https://github.com/loadimpact/k6) - A modern load testing tool, using `Go` and `JavaScript`.
+* [__k6__](https://github.com/k6io/k6) - A modern load testing tool, using `Go` and `JavaScript`.
 * [__locust__](https://github.com/locustio/locust) - Scalable distributed load testing tool written in `Python`.
 * [__multi-mechanize__](https://github.com/cgoldberg/multi-mechanize) - Performance and load testing framework written in `Python`.
 * [__mzbench__](https://github.com/satori-com/mzbench) - Expressive, scalable load testing tool, with multiple protocols support. `Erlang`
