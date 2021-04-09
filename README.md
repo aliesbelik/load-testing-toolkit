@@ -53,6 +53,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__goose__](https://github.com/tag1consulting/goose) - A `Rust` load testing tool inspired by [locust](https://github.com/locustio/locust).
 * [__hargo__](https://github.com/mrichman/hargo) - `Go` library and command line utility that parses HAR files, can convert to [curl](https://github.com/curl/curl) format, and serve as a load test driver.
 * [__hey__](https://github.com/rakyll/hey) - HTTP load generator, [ab](https://github.com/CloudFundoo/ApacheBench-ab) replacement. `Go`
+* [__htstress__](https://github.com/arut/htstress) - Fast HTTP benchmarking tool, similar to [ab](https://github.com/CloudFundoo/ApacheBench-ab) but provides multithreading support. `C`
 * [__httperf__](https://github.com/httperf/httperf) - A tool for measuring web server performance. `C`
 * [__httpit__](https://github.com/gonetx/httpit) - A rapid HTTP/S benchmark tool, written in `Go`.
 * [__httpress__](https://github.com/virtuozzo/httpress) - High performance HTTP server stress & benchmark utility, inspired by [weighttp](https://github.com/lighttpd/weighttp). `C`
