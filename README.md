@@ -45,6 +45,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__f1__](https://github.com/form3tech-oss/f1) - A flexible load testing framework using `Go` for test scenarios.
 * [__fortio__](https://github.com/fortio/fortio) - Load testing library, command line tool, advanced echo server and web UI in `Go`.
 * [__freeloader__](https://github.com/rprieto/freeloader) - Super easy load testing framework, with load scenarios in `JavaScript`.
+* [__go-meter__](https://github.com/a696385/go-meter) - A HTTP benchmark tool written in `Go`.
 * [__go-wrk__](https://github.com/adjust/go-wrk) - A small heavy duty HTTP/S benchmark tool, similar to [wrk](https://github.com/wg/wrk), but written in `Go`.
 * [__goad__](https://github.com/goadapp/goad) - An AWS Lambda powered, highly distributed, load testing tool. `Go`
 * [__gobench__](https://github.com/cmpxchg16/gobench) - HTTP/S load testing and benchmarking tool. `Go`
