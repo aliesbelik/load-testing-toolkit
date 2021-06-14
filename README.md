@@ -43,6 +43,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__chaperon__](https://github.com/polleverywhere/chaperon) - HTTP service performance & load testing framework. `Elixir`
 * [__drill__](https://github.com/fcsonline/drill) - A HTTP load testing application, written in `Rust`, inspired by Ansible syntax.
 * [__f1__](https://github.com/form3tech-oss/f1) - A flexible load testing framework using `Go` for test scenarios.
+* [__fbender__](https://github.com/facebookincubator/fbender) - A load-testing command line tool for generic network protocols, originally based on [bender](https://github.com/pinterest/bender) library. `Go`
 * [__fortio__](https://github.com/fortio/fortio) - Load testing library, command line tool, advanced echo server and web UI in `Go`.
 * [__freeloader__](https://github.com/rprieto/freeloader) - Super easy load testing framework, with load scenarios in `JavaScript`.
 * [__go-meter__](https://github.com/a696385/go-meter) - A HTTP benchmark tool written in `Go`.
