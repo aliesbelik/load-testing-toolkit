@@ -16,6 +16,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 ## Debugging & API testing
 
+* [__baloo__](https://github.com/h2non/baloo) - Expressive and versatile end-to-end HTTP API testing made easy in `Go`.
 * [__bat__](https://github.com/astaxie/bat) - A [curl](https://github.com/curl/curl)-like tool for humans, inspired by [httpie](https://github.com/httpie/httpie), written in `Go`.
 * [__curl__](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax. `C`
 * [__curlie__](https://github.com/rs/curlie) - The power of [curl](https://github.com/curl/curl), the ease of use of [httpie](https://github.com/httpie/httpie). `Go`
