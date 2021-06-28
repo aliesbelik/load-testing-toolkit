@@ -146,9 +146,10 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 ## DoS/DDoS penetration testing
 
-> For educational and stress testing (as part of development) purposes only.
+> For educational and security/stress testing (as part of development) purposes only.
 
 * [__finshir__](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic sender, written in `Rust`.
+* [__golden-eye__](https://github.com/jseidl/GoldenEye) - HTTP DoS test tool using HTTP Keep Alive + NoCache as attack vector. `Python`
 * [__goloris__](https://github.com/valyala/goloris) - [Slowloris](https://github.com/gkbrk/slowloris) implementation for nginx DoS written in `Go`.
 * [__hulk__](https://github.com/grafov/hulk) - Original HULK web server DoS attack tool ported to `Go` with some additional features.
 * [__hulk-v3__](https://github.com/Hyperclaw79/HULK-v3) - `Python` 3 compatible async HULK script for DDoS attacks.
