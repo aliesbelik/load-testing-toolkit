@@ -158,3 +158,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__slowhttptest__](https://github.com/shekyan/slowhttptest) - A highly configurable application layer DoS attack simulator. `C++`
 * [__slowloris__](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool, rewrite in `Python`.
 * [__wreckuests__](https://github.com/abriginets/wreckuests) - Yet another one hard-hitting tool to run DDoS attacks with HTTP-flood. `Python`
+
+> *“I have enough trouble with useful information, never mind being burdened with what is useless.”*
+>
+> ― Erlend Loe, Naïve. Super
