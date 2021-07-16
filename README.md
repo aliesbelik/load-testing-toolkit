@@ -1,4 +1,4 @@
-# Load testing toolkit
+# Load Testing Toolkit
 
 Collection of **open source** tools for debugging, benchmarking, load and stress testing your code or services.
 
@@ -39,6 +39,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__beeswithmachineguns__](https://github.com/newsapps/beeswithmachineguns) - An utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications). `Python`
 * [__bender__](https://github.com/pinterest/bender) - An easy-to-use library for creating load testing applications. `Go`
 * [__bfg__](https://github.com/yandex-load/bfg) - A modular tool and framework for load generation with HTTP/2 support. `Python`
+* [__blast__](https://github.com/dave/blast) - A simple, protocol agnostic tool for API load testing and batch jobs. `Go`
 * [__bombardier__](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in `Go`.
 * [__boom__](https://github.com/tarekziade/boom) - A replacement for [ab](https://httpd.apache.org/docs/current/programs/ab.html), written in `Python`.
 * [__carrot__](https://github.com/gophercarrot/carrot) - Distributed WebSocket and HTTP load-testing framework in `Go`.
