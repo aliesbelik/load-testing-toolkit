@@ -13,6 +13,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [Benchmarking & load testing](#benchmarking--load-testing)
 * [Stress testing](#stress-testing)
 * [DoS/DDoS penetration testing](#dosddos-penetration-testing)
+* [Web performance](#web-performance)
 
 ## Debugging & API testing
 
@@ -76,7 +77,6 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__node-vegeta__](https://github.com/jbarabander/node-vegeta) - `Node.js` bindings for the [vegeta](https://github.com/tsenart/vegeta) load-testing library.
 * [__oha__](https://github.com/hatoo/oha) - HTTP load generator, inspired by [hey](https://github.com/rakyll/hey) with tui animation. `Rust`
 * [__pandora__](https://github.com/yandex/pandora) - A load generator in `Go`, with built-in HTTP/S and HTTP/2 support and load scenarios in `Go`.
-* [__phantomas__](https://github.com/macbre/phantomas) - PhantomJS-based web performance metrics collector and monitoring tool. `JavaScript`
 * [__ponos__](https://github.com/klarna/ponos) - Simple yet powerful load generator written in `Erlang`.
 * [__pounce__](https://github.com/fredrikwidlund/pounce) – HTTP benchmark utility, written in `C`.
 * [__pronk__](https://github.com/bos/pronk) - A small command line application for load testing web servers. `Haskell`
@@ -161,6 +161,10 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__slowhttptest__](https://github.com/shekyan/slowhttptest) - A highly configurable application layer DoS attack simulator. `C++`
 * [__slowloris__](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool, rewrite in `Python`.
 * [__wreckuests__](https://github.com/abriginets/wreckuests) - Yet another one hard-hitting tool to run DDoS attacks with HTTP-flood. `Python`
+
+## Web performance
+
+* [__phantomas__](https://github.com/macbre/phantomas) - PhantomJS-based web performance metrics collector and monitoring tool. `JavaScript`
 
 <br>
 
