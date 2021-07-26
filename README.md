@@ -44,13 +44,14 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__blast__](https://github.com/dave/blast) - A simple, protocol agnostic tool for API load testing and batch jobs. `Go`
 * [__bombardier__](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in `Go`.
 * [__boom__](https://github.com/tarekziade/boom) - A replacement for [ab](https://httpd.apache.org/docs/current/programs/ab.html), written in `Python`.
-* [__carrot__](https://github.com/gophercarrot/carrot) - Distributed WebSocket and HTTP load-testing framework in `Go`.
-* [__cassowary__](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in `Go`.
+* [__carrot__](https://github.com/gophercarrot/carrot) - Distributed WebSocket and HTTP load testing framework in `Go`.
+* [__cassowary__](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load testing tool written in `Go`.
 * [__chaperon__](https://github.com/polleverywhere/chaperon) - HTTP service performance & load testing framework. `Elixir`
+* [__curl-loader__](http://curl-loader.sourceforge.net/) - A load generating tool written in `C`, simulating HTTP/S, FTP/S and TLS/SSL clients each with own IP-address.
 * [__drill__](https://github.com/fcsonline/drill) - A HTTP load testing application, written in `Rust`, inspired by Ansible syntax.
 * [__f1__](https://github.com/form3tech-oss/f1) - A flexible load testing framework using `Go` for test scenarios.
 * [__fasthttploader__](https://github.com/hagen1778/fasthttploader) - HTTP benchmark (kinda [ab](https://httpd.apache.org/docs/current/programs/ab.html)) with autoadjustment and charts based on fasthttp library. `Go`
-* [__fbender__](https://github.com/facebookincubator/fbender) - A load-testing command line tool for generic network protocols, originally based on [bender](https://github.com/pinterest/bender) library. `Go`
+* [__fbender__](https://github.com/facebookincubator/fbender) - A load testing command line tool for generic network protocols, originally based on [bender](https://github.com/pinterest/bender) library. `Go`
 * [__fortio__](https://github.com/fortio/fortio) - Load testing library, command line tool, advanced echo server and web UI in `Go`.
 * [__freeloader__](https://github.com/rprieto/freeloader) - Super easy load testing framework, with load scenarios in `JavaScript`.
 * [__go-meter__](https://github.com/a696385/go-meter) - A HTTP benchmark tool written in `Go`.
@@ -68,14 +69,14 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__httpress__](https://github.com/virtuozzo/httpress) - High performance HTTP server stress & benchmark utility, inspired by [weighttp](https://github.com/lighttpd/weighttp). `C`
 * [__hurl__](https://github.com/EdgeCast/hurl) - HTTP server load test and parallel [curl](https://github.com/curl/curl) utilities. `C++`
 * [__iago2__](https://github.com/twitter/iago2) - A load generator, built for engineers. `Scala`
-* [__jetty-load-generator__](https://github.com/jetty-project/jetty-load-generator) - An API to load-test HTTP servers, based on Jetty's HttpClient and `Java` 11+.
+* [__jetty-load-generator__](https://github.com/jetty-project/jetty-load-generator) - An API for load testing HTTP servers, based on Jetty's HttpClient and `Java` 11+.
 * [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
 * [__legion__](https://github.com/lane-webperformance/legion) - A `JavaScript`-based load testing tool for HTTP servers and other kinds of software.
 * [__mgun__](https://github.com/byorty/mgun) - A modern tool for load testing HTTP servers, written in `Go`.
 * [__molotov__](https://github.com/loads/molotov) - Simple `Python` 3.5+ tool to write load tests.
 * [__nbomber__](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios, written in `F#` and targeting .NET Core and full .NET Framework.
 * [__netling__](https://github.com/hallatore/netling) - Load testing client for easy web testing. `C#`
-* [__node-vegeta__](https://github.com/jbarabander/node-vegeta) - `Node.js` bindings for the [vegeta](https://github.com/tsenart/vegeta) load-testing library.
+* [__node-vegeta__](https://github.com/jbarabander/node-vegeta) - `Node.js` bindings for the [vegeta](https://github.com/tsenart/vegeta) load testing library.
 * [__oha__](https://github.com/hatoo/oha) - HTTP load generator, inspired by [hey](https://github.com/rakyll/hey) with tui animation. `Rust`
 * [__pandora__](https://github.com/yandex/pandora) - A load generator in `Go`, with built-in HTTP/S and HTTP/2 support and load scenarios in `Go`.
 * [__ponos__](https://github.com/klarna/ponos) - Simple yet powerful load generator written in `Erlang`.
