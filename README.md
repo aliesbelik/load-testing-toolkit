@@ -1,5 +1,8 @@
 # Load Testing Toolkit
 
+> *“I have enough trouble with useful information, never mind being burdened with what is useless.”*\
+> ― Erlend Loe, Naïve. Super
+
 Collection of **open source** tools for debugging, benchmarking, load and stress testing your code or services.
 
 **NOTE:** Unfortunately I've found this original *awesome* collection too late: [__awesome-http-benchmark__](https://github.com/denji/awesome-http-benchmark).\
@@ -13,7 +16,6 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [Benchmarking & load testing](#benchmarking--load-testing)
 * [Stress testing](#stress-testing)
 * [DoS/DDoS penetration testing](#dosddos-penetration-testing)
-* [Web performance](#web-performance)
 
 ## Debugging & API testing
 
@@ -166,13 +168,3 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__slowhttptest__](https://github.com/shekyan/slowhttptest) - A highly configurable application layer DoS attack simulator. `C++`
 * [__slowloris__](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool, rewrite in `Python`.
 * [__wreckuests__](https://github.com/abriginets/wreckuests) - Yet another one hard-hitting tool to run DDoS attacks with HTTP-flood. `Python`
-
-## Web performance
-
-* [__phantomas__](https://github.com/macbre/phantomas) - PhantomJS-based web performance metrics collector and monitoring tool. `JavaScript`
-
-<br>
-
-> *“I have enough trouble with useful information, never mind being burdened with what is useless.”*
->
-> ― Erlend Loe, Naïve. Super
