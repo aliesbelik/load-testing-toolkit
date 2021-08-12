@@ -85,6 +85,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__ponos__](https://github.com/klarna/ponos) - Simple yet powerful load generator written in `Erlang`.
 * [__pounce__](https://github.com/fredrikwidlund/pounce) – HTTP benchmark utility, written in `C`.
 * [__pronk__](https://github.com/bos/pronk) - A small command line application for load testing web servers. `Haskell`
+* [__rewrk__](https://github.com/ChillFish8/rewrk) - A modern HTTP framework benchmarking utility supporting HTTP/1 and HTTP/2 benchmarks. `Rust`
 * [__salvo__](https://github.com/tarekziade/salvo) - Like [boom](https://github.com/tarekziade/boom), but based on [molotov](https://github.com/loads/molotov). `Python`
 * [__siege__](https://github.com/JoeDog/siege) - A HTTP load tester and benchmarking utility. `C`
 * [__slapper__](https://github.com/ikruglov/slapper) - Simple load testing tool with real-time updated histogram of request timings. `Go`
@@ -95,7 +96,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__vegeta__](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. `Go`
 * [__vex__](https://github.com/vamsiikrishna/vex) - A small `PHP` app that sends some load to a web application.
 * [__weighttp__](https://github.com/lighttpd/weighttp) - A lightweight and simple webserver benchmarking tool. `C`
-* [__welle__](https://github.com/rylev/welle) - An [ab](https://httpd.apache.org/docs/current/programs/ab.html)-like benchmarking  tool written in `Rust`.
+* [__welle__](https://github.com/rylev/welle) - An [ab](https://httpd.apache.org/docs/current/programs/ab.html)-like benchmarking tool written in `Rust`.
 * [__wrk__](https://github.com/wg/wrk) - Modern HTTP benchmarking tool. `C`
 * [__wrk2__](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of [wrk](https://github.com/wg/wrk). `C`
 
