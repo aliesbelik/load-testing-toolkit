@@ -25,6 +25,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__curlie__](https://github.com/rs/curlie) - The power of [curl](https://github.com/curl/curl), the ease of use of [httpie](https://github.com/httpie/httpie). `Go`
 * [__httpcat__](https://github.com/httpie/httpcat) - A simple utility for constructing raw HTTP requests on the command line. `Python`
 * [__httpie__](https://github.com/httpie/httpie) - Modern command line HTTP client, user-friendly [curl](https://github.com/curl/curl) alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. `Python`
+* [__httpie-go__](https://github.com/nojima/httpie-go) - [httpie](https://github.com/httpie/httpie)-like HTTP client written in `Go`.
 * [__httping__](https://github.com/BretFisher/httping-docker) - A ping-like utility for HTTP requests. `C`
 * [__httpstat__](https://github.com/reorx/httpstat) - [curl](https://github.com/curl/curl) statistics visualization in a way of beauty and clarity. `Python`
 * [__wuzz__](https://github.com/asciimoo/wuzz) - Interactive command line tool for HTTP inspection. `Go`
