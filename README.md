@@ -108,6 +108,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__bomberman__](https://github.com/c1982/bomberman) - SMTP performance and load testing tool. `Go`
 * [__flotilla__](https://github.com/tylertreat/Flotilla) - Automated message queue orchestration for scaled-up benchmarking. `Go`
 * [__ghz__](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool. `Go`
+* [__graphql-bench__](https://github.com/hasura/graphql-bench) - A versatile tool for benchmarking and load-testing GraphQL services, as a CLI application or via programmatic API. `TSQL`
 * [__massive-attack__](https://github.com/delprks/massive-attack) - Load testing Thrift, made simple. `Scala`
 * [__memtier_benchmark__](https://github.com/RedisLabs/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool. `C++`
 * [__mqperf__](https://github.com/softwaremill/mqperf) - A benchmark of message queues with data replication and at-least-once delivery guarantees. `Scala`
