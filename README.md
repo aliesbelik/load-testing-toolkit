@@ -83,6 +83,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__node-vegeta__](https://github.com/jbarabander/node-vegeta) - `Node.js` bindings for the [vegeta](https://github.com/tsenart/vegeta) load testing library.
 * [__oha__](https://github.com/hatoo/oha) - HTTP load generator, inspired by [hey](https://github.com/rakyll/hey) with tui animation. `Rust`
 * [__pandora__](https://github.com/yandex/pandora) - A load generator in `Go`, with built-in HTTP/S and HTTP/2 support and load scenarios in `Go`.
+* [__plow__](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying. `Go`
 * [__ponos__](https://github.com/klarna/ponos) - Simple yet powerful load generator written in `Erlang`.
 * [__pounce__](https://github.com/fredrikwidlund/pounce) – HTTP benchmark utility, written in `C`.
 * [__pronk__](https://github.com/bos/pronk) - A small command line application for load testing web servers. `Haskell`
