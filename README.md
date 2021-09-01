@@ -73,6 +73,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__httpress__](https://github.com/virtuozzo/httpress) - High performance HTTP server stress & benchmark utility, inspired by [weighttp](https://github.com/lighttpd/weighttp). `C`
 * [__hurl__](https://github.com/EdgeCast/hurl) - HTTP server load test and parallel [curl](https://github.com/curl/curl) utilities. `C++`
 * [__iago2__](https://github.com/twitter/iago2) - A load generator, built for engineers. `Scala`
+* [__jbender__](https://github.com/pinterest/jbender) - A port of [bender](https://github.com/pinterest/bender) to the JVM platform with Quasar lightweight threads (fibers) and channels. `Java`
 * [__jetty-load-generator__](https://github.com/jetty-project/jetty-load-generator) - An API for load testing HTTP servers, based on Jetty's HttpClient and `Java` 11+.
 * [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
 * [__legion__](https://github.com/lane-webperformance/legion) - A `JavaScript`-based load testing tool for HTTP servers and other kinds of software.
