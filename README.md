@@ -146,6 +146,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__cosbench__](https://github.com/intel-cloud/cosbench) - A benchmark tool for cloud object storage service. `Java`
 * [__go-ycsb__](https://github.com/pingcap/go-ycsb) - A Go port of Yahoo! Cloud Serving Benchmark ([YCSB](https://github.com/brianfrankcooper/YCSB)). `Go`
 * [__mongoose__](https://github.com/emc-mongoose/mongoose) - Distributed storage performance testing tool. `Java`
+* [__tsbs__](https://github.com/timescale/tsbs) - Time Series Benchmark Suite, a tool for comparing and evaluating databases for time series data. `Go`
 * [__ycsb__](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark (YCSB), a framework and common set of workloads for evaluating the performance of different "key-value" and "cloud" serving stores. `Java`
 
 ## Stress testing
