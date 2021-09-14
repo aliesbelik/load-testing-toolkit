@@ -77,6 +77,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__jetty-load-generator__](https://github.com/jetty-project/jetty-load-generator) - An API for load testing HTTP servers, based on Jetty's HttpClient and `Java` 11+.
 * [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
 * [__legion__](https://github.com/lane-webperformance/legion) - A `JavaScript`-based load testing tool for HTTP servers and other kinds of software.
+* [__loadtest__](https://github.com/alexfernandez/loadtest) - A `JavaScript` package for load testing with HTTP/S and WebSockets support and API for easy integration.
 * [__mgun__](https://github.com/byorty/mgun) - A modern tool for load testing HTTP servers, written in `Go`.
 * [__molotov__](https://github.com/loads/molotov) - Simple `Python` 3.5+ tool to write load tests.
 * [__nbomber__](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios, written in `F#` and targeting .NET Core and full .NET Framework.
