@@ -82,6 +82,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__molotov__](https://github.com/loads/molotov) - Simple `Python` 3.5+ tool to write load tests.
 * [__nbomber__](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios, written in `F#` and targeting .NET Core and full .NET Framework.
 * [__netling__](https://github.com/hallatore/netling) - Load testing client for easy web testing. `C#`
+* [__node-ab__](https://github.com/doubaokun/node-ab) - A command line tool to test the performance of HTTP services. `Node.js`
 * [__node-vegeta__](https://github.com/jbarabander/node-vegeta) - `Node.js` bindings for the [vegeta](https://github.com/tsenart/vegeta) load testing library.
 * [__oha__](https://github.com/hatoo/oha) - HTTP load generator, inspired by [hey](https://github.com/rakyll/hey) with tui animation. `Rust`
 * [__pandora__](https://github.com/yandex/pandora) - A load generator in `Go`, with built-in HTTP/S and HTTP/2 support and load scenarios in `Go`.
