@@ -128,6 +128,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 ### multi-protocol
 
 * [__artillery__](https://github.com/artilleryio/artillery) - A modern load and functional testing toolkit written in `Node.js`, with test scenario scripting in `Javascript`.
+* [__ddosify__](https://github.com/ddosify/ddosify) - High-performance load testing and DDOS attack simulation tool, written in `Go`.
 * [__gatling__](https://github.com/gatling/gatling) - A load and performance testing framework based on `Scala`, Akka and Netty.
 * [__grinder__](https://github.com/cossme/grinder) - A distributed load testing framework written in `Java`, with test scenario scripting in `Jython` and `Clojure`.
 * [__jagger__](https://github.com/griddynamics/jagger) - An open source framework for Continuous Performance Testing written in `Java`.
@@ -169,7 +170,6 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 > For educational and security/stress testing (as part of development) purposes only.
 
-* [__ddosify__](https://github.com/ddosify/ddosify) - High-performance load testing and DDOS attack simulation tool, written in `Go`.
 * [__finshir__](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic sender, written in `Rust`.
 * [__golden-eye__](https://github.com/jseidl/GoldenEye) - HTTP DoS test tool using HTTP Keep Alive + NoCache as attack vector. `Python`
 * [__goloris__](https://github.com/valyala/goloris) - [Slowloris](https://github.com/gkbrk/slowloris) implementation for nginx DoS written in `Go`.
