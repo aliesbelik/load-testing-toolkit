@@ -28,6 +28,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__httpie-go__](https://github.com/nojima/httpie-go) - [httpie](https://github.com/httpie/httpie)-like HTTP client written in `Go`.
 * [__httping__](https://github.com/BretFisher/httping-docker) - A ping-like utility for HTTP requests. `C`
 * [__httpstat__](https://github.com/reorx/httpstat) - [curl](https://github.com/curl/curl) statistics visualization in a way of beauty and clarity. `Python`
+* [__hurl__](https://github.com/Orange-OpenSource/hurl) - A command line tool to perform HTTP requests defined in a simple plain text format. `Rust`
 * [__wuzz__](https://github.com/asciimoo/wuzz) - Interactive command line tool for HTTP inspection. `Go`
 * [__xh__](https://github.com/ducaale/xh) – Yet another [httpie](https://github.com/httpie/httpie) clone in `Rust`.
 
