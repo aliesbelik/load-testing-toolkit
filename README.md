@@ -151,6 +151,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 * [__ioarena__](https://github.com/pmwkaa/ioarena) - Embedded storage benchmarking tool. `C`
 * [__cosbench__](https://github.com/intel-cloud/cosbench) - A benchmark tool for cloud object storage service. `Java`
+* [__fio__](https://github.com/axboe/fio) - Flexible I/O tester. `C`
 * [__go-ycsb__](https://github.com/pingcap/go-ycsb) - A Go port of Yahoo! Cloud Serving Benchmark ([YCSB](https://github.com/brianfrankcooper/YCSB)). `Go`
 * [__mongoose__](https://github.com/emc-mongoose/mongoose) - Distributed storage performance testing tool. `Java`
 * [__ndbench__](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark, a pluggable cloud-enabled benchmarking tool that can be used across any data store system. `Java`
