@@ -42,6 +42,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__apib__](https://github.com/apigee/apib) - A simple, fast HTTP and API benchmarking tool. `C++`
 * [__autocannon__](https://github.com/mcollina/autocannon) - Fast HTTP/1.1 benchmarking tool written in `Node.js`, greatly inspired by [wrk](https://github.com/wg/wrk) and [wrk2](https://github.com/giltene/wrk2), with support for HTTP pipelining and HTTPS.
 * [__baton__](https://github.com/americanexpress/baton) - HTTP load testing written in `Go`.
+* [__beast__](https://github.com/jjmrocha/beast) - Stress testing for RESTful APIs. `Go`
 * [__beeswithmachineguns__](https://github.com/newsapps/beeswithmachineguns) - An utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications). `Python`
 * [__benchttp__](https://github.com/siadat/benchttp) - HTTP server benchmarking tool, implements the most commonly used features of [ab](https://httpd.apache.org/docs/current/programs/ab.html). `Go`
 * [__bender__](https://github.com/pinterest/bender) - An easy-to-use library for creating load testing applications. `Go`
