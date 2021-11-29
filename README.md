@@ -14,7 +14,6 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 * [Debugging & API testing](#debugging--api-testing)
 * [Benchmarking & load testing](#benchmarking--load-testing)
-* [Stress testing](#stress-testing)
 * [DoS/DDoS penetration testing](#dosddos-penetration-testing)
 
 ## Debugging & API testing
@@ -73,6 +72,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__httperf__](https://github.com/httperf/httperf) - A tool for measuring web server performance. `C`
 * [__httpit__](https://github.com/gonetx/httpit) - A rapid HTTP/S benchmark tool, written in `Go`.
 * [__httpress__](https://github.com/virtuozzo/httpress) - High performance HTTP server stress & benchmark utility, inspired by [weighttp](https://github.com/lighttpd/weighttp). `C`
+* [__hulken__](https://github.com/hellgrenj/hulken) - Stress testing tool for everything speaking HTTP. `JavaScript`
 * [__hurl__](https://github.com/EdgeCast/hurl) - HTTP server load test and parallel [curl](https://github.com/curl/curl) utilities. `C++`
 * [__iago2__](https://github.com/twitter/iago2) - A load generator, built for engineers. `Scala`
 * [__jbender__](https://github.com/pinterest/jbender) - A port of [bender](https://github.com/pinterest/bender) to the JVM platform with Quasar lightweight threads (fibers) and channels. `Java`
@@ -88,6 +88,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__node-vegeta__](https://github.com/jbarabander/node-vegeta) - `Node.js` bindings for the [vegeta](https://github.com/tsenart/vegeta) load testing library.
 * [__oha__](https://github.com/hatoo/oha) - HTTP load generator, inspired by [hey](https://github.com/rakyll/hey) with tui animation. `Rust`
 * [__pandora__](https://github.com/yandex/pandora) - A load generator in `Go`, with built-in HTTP/S and HTTP/2 support and load scenarios in `Go`.
+* [__pewpew__](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester for websites and web services. `Go`
 * [__plow__](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying. `Go`
 * [__ponos__](https://github.com/klarna/ponos) - Simple yet powerful load generator written in `Erlang`.
 * [__pounce__](https://github.com/fredrikwidlund/pounce) – HTTP benchmark utility, written in `C`.
@@ -116,12 +117,15 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__emqtt-bench__](https://github.com/emqx/emqtt-bench) - A simple MQTT v5.0 benchmark tool written in `Erlang`.
 * [__flotilla__](https://github.com/tylertreat/Flotilla) - Automated message queue orchestration for scaled-up benchmarking. `Go`
 * [__ghz__](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool. `Go`
+* [__dhammer__](https://github.com/ipchama/dhammer) - DHCP stress tester and benchmark tool. `Go`
 * [__dnsperf__](https://github.com/DNS-OARC/dnsperf) - DNS performance testing tools. `C`
+* [__dnstress__](https://github.com/safedns/dnstress) - A DNS stress testing tool. `C`
 * [__graphql-bench__](https://github.com/hasura/graphql-bench) - A versatile tool for benchmarking and load-testing GraphQL services, as a CLI application or via programmatic API. `TSQL`
 * [__massive-attack__](https://github.com/delprks/massive-attack) - Load testing Thrift, made simple. `Scala`
 * [__memtier_benchmark__](https://github.com/RedisLabs/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool. `C++`
 * [__mqperf__](https://github.com/softwaremill/mqperf) - A benchmark of message queues with data replication and at-least-once delivery guarantees. `Scala`
 * [__mqtt-benchmark__](https://github.com/krylovsk/mqtt-benchmark) - A simple MQTT (broker) benchmarking tool. `Go`
+* [__mqtt-stresser__](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker. `Go`
 * [__rabbitmq-perf-test__](https://github.com/rabbitmq/rabbitmq-perf-test) - RabbitMQ performance testing tool. `Java`
 * [__rpc-perf__](https://github.com/twitter/rpc-perf) - A tool for benchmarking RPC services. `Rust`
 * [__rtmp_load__](https://github.com/fillest/rtmp_load) - A load testing tool for RTMP servers. `C`
@@ -159,19 +163,6 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__ndbench__](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark, a pluggable cloud-enabled benchmarking tool that can be used across any data store system. `Java`
 * [__tsbs__](https://github.com/timescale/tsbs) - Time Series Benchmark Suite, a tool for comparing and evaluating databases for time series data. `Go`
 * [__ycsb__](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark (YCSB), a framework and common set of workloads for evaluating the performance of different "key-value" and "cloud" serving stores. `Java`
-
-## Stress testing
-
-### http/s
-
-* [__hulken__](https://github.com/hellgrenj/hulken) - Stress testing tool for everything speaking HTTP. `JavaScript`
-* [__pewpew__](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester for websites and web services. `Go`
-
-### non-http/s
-
-* [__dhammer__](https://github.com/ipchama/dhammer) - DHCP stress tester and benchmark tool. `Go`
-* [__dnstress__](https://github.com/safedns/dnstress) - A DNS stress testing tool. `C`
-* [__mqtt-stresser__](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker. `Go`
 
 ## DoS/DDoS penetration testing
 
