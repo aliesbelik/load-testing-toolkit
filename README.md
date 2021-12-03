@@ -101,6 +101,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__slow_cooker__](https://github.com/BuoyantIO/slow_cooker) - A load tester focused on lifecycle issues and long-running tests. `Go`
 * [__sniper__](https://github.com/btfak/sniper) - Powerful and high-performance HTTP load tester, written in `Go`.
 * [__stress__](https://github.com/yarax/stress) - Simple `Node.js` tool for stress testing HTTP services.
+* [__terjang__](https://github.com/andylibrian/terjang) - Scalable HTTP load testing tool built on [vegeta](https://github.com/tsenart/vegeta). `Go`
 * [__thrash__](https://github.com/TylerBrock/thrash) - `Go` HTTP micro benchmarker.
 * [__vegeta__](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. `Go`
 * [__vex__](https://github.com/vamsiikrishna/vex) - A small `PHP` app that sends some load to a web application.
