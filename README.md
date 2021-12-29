@@ -134,6 +134,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__sangrenel__](https://github.com/jamiealquiza/sangrenel) - Apache Kafka load testing. `Go`
 * [__srs-bench__](https://github.com/ossrs/srs-bench) - A HTTP/RTMP/HLS load testing and benchmarking tool. `C++`
 * [__ssh-hammer__](https://github.com/shazow/ssh-hammer) - A SSH load testing tool. `Go`
+* [__strest-grpc__](https://github.com/BuoyantIO/strest-grpc) - A load tester for stress testing gRPC intermediaries. `Go`
 * [__tcpkali__](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator. `C`
 
 ### multi-protocol
