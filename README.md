@@ -78,7 +78,6 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__iago2__](https://github.com/twitter/iago2) - A load generator, built for engineers. `Scala`
 * [__jbender__](https://github.com/pinterest/jbender) - A port of [bender](https://github.com/pinterest/bender) to the JVM platform with Quasar lightweight threads (fibers) and channels. `Java`
 * [__jetty-load-generator__](https://github.com/jetty-project/jetty-load-generator) - An API for load testing HTTP servers, based on Jetty's HttpClient and `Java` 11+.
-* [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
 * [__legion__](https://github.com/lane-webperformance/legion) - A `JavaScript`-based load testing tool for HTTP servers and other kinds of software.
 * [__loadtest__](https://github.com/alexfernandez/loadtest) - A `JavaScript` package for load testing with HTTP/S and WebSockets support and API for easy integration.
 * [__mgun__](https://github.com/byorty/mgun) - A modern tool for load testing HTTP servers, written in `Go`.
@@ -166,6 +165,10 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__ndbench__](https://github.com/Netflix/ndbench) - Netflix Data Store Benchmark, a pluggable cloud-enabled benchmarking tool that can be used across any data store system. `Java`
 * [__tsbs__](https://github.com/timescale/tsbs) - Time Series Benchmark Suite, a tool for comparing and evaluating databases for time series data. `Go`
 * [__ycsb__](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark (YCSB), a framework and common set of workloads for evaluating the performance of different "key-value" and "cloud" serving stores. `Java`
+
+### k8s
+
+* [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
 
 ## DoS/DDoS penetration testing
 
