@@ -22,6 +22,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__bat__](https://github.com/astaxie/bat) - A [curl](https://github.com/curl/curl)-like tool for humans, inspired by [httpie](https://github.com/httpie/httpie), written in `Go`.
 * [__curl__](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax. `C`
 * [__curlie__](https://github.com/rs/curlie) - The power of [curl](https://github.com/curl/curl), the ease of use of [httpie](https://github.com/httpie/httpie). `Go`
+* [__curlx__](https://github.com/shivkanthb/curlx) - Supercharge [curl](https://github.com/curl/curl) with history, collections and more. `JavaScript`
 * [__hopp-cli__](https://github.com/hoppscotch/hopp-cli) - An HTTP CLI client for [hoppscotch](https://hoppscotch.io/), an alternative to [curl](https://github.com/curl/curl), [httpie](https://github.com/httpie/httpie). `Go`
 * [__httpcat__](https://github.com/httpie/httpcat) - A simple utility for constructing raw HTTP requests on the command line. `Python`
 * [__httpie__](https://github.com/httpie/httpie) - Modern command line HTTP client, user-friendly [curl](https://github.com/curl/curl) alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. `Python`
@@ -138,7 +139,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 ### multi-protocol
 
-* [__artillery__](https://github.com/artilleryio/artillery) - A modern load and functional testing toolkit written in `Node.js`, with test scenario scripting in `Javascript`.
+* [__artillery__](https://github.com/artilleryio/artillery) - A modern load and functional testing toolkit written in `Node.js`, with test scenario scripting in `JavaScript`.
 * [__ddosify__](https://github.com/ddosify/ddosify) - High-performance load testing and DDOS attack simulation tool, written in `Go`.
 * [__gatling__](https://github.com/gatling/gatling) - A load and performance testing framework based on `Scala`, Akka and Netty.
 * [__grinder__](https://github.com/cossme/grinder) - A distributed load testing framework written in `Java`, with test scenario scripting in `Jython` and `Clojure`.
