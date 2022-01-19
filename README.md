@@ -128,6 +128,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__mqperf__](https://github.com/softwaremill/mqperf) - A benchmark of message queues with data replication and at-least-once delivery guarantees. `Scala`
 * [__mqtt-benchmark__](https://github.com/krylovsk/mqtt-benchmark) - A simple MQTT (broker) benchmarking tool. `Go`
 * [__mqtt-stresser__](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker. `Go`
+* [__mqttloader__](https://github.com/dist-sys/mqttloader) - Load testing tool for MQTT, capable of benchmark test for both MQTT v5.0 and v3.1.1 brokers. `Java`
 * [__rabbitmq-perf-test__](https://github.com/rabbitmq/rabbitmq-perf-test) - RabbitMQ performance testing tool. `Java`
 * [__rpc-perf__](https://github.com/twitter/rpc-perf) - A tool for benchmarking RPC services. `Rust`
 * [__rtmp_load__](https://github.com/fillest/rtmp_load) - A load testing tool for RTMP servers. `C`
