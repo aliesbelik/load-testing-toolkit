@@ -69,6 +69,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__gohttpbench__](https://github.com/parkghost/gohttpbench) - An [ab](https://httpd.apache.org/docs/current/programs/ab.html)-like benchmark tool run on multi-core cpu. `Go`
 * [__goku__](https://github.com/k-nasa/goku) - HTTP load testing application written in `Rust`.
 * [__goose__](https://github.com/tag1consulting/goose) - A `Rust` load testing tool inspired by [locust](https://github.com/locustio/locust).
+* [__goperf__](https://github.com/gnulnx/goperf) - `Go` based load tester with a simple intuitive command line syntax.
 * [__hargo__](https://github.com/mrichman/hargo) - `Go` library and command line utility that parses HAR files, can convert to [curl](https://github.com/curl/curl) format, and serve as a load test driver.
 * [__hey__](https://github.com/rakyll/hey) - HTTP load generator, [ab](https://httpd.apache.org/docs/current/programs/ab.html) replacement. `Go`
 * [__htstress__](https://github.com/arut/htstress) - Fast HTTP benchmarking tool, similar to [ab](https://httpd.apache.org/docs/current/programs/ab.html) but provides multithreading support. `C`
