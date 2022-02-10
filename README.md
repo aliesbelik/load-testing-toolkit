@@ -118,19 +118,12 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__amoc__](https://github.com/esl/amoc) - A simple framework for running massively parallel XMPP tests in a distributed environment. `Erlang`
 * [__bench__](https://github.com/tylertreat/bench) - A generic latency benchmarking library. `Go`
 * [__bomberman__](https://github.com/c1982/bomberman) - SMTP performance and load testing tool. `Go`
-* [__emqtt-bench__](https://github.com/emqx/emqtt-bench) - A simple MQTT v5.0 benchmark tool written in `Erlang`.
-* [__flotilla__](https://github.com/tylertreat/Flotilla) - Automated message queue orchestration for scaled-up benchmarking. `Go`
 * [__dhammer__](https://github.com/ipchama/dhammer) - DHCP stress tester and benchmark tool. `Go`
 * [__dnsperf__](https://github.com/DNS-OARC/dnsperf) - DNS performance testing tools. `C`
 * [__dnstress__](https://github.com/safedns/dnstress) - A DNS stress testing tool. `C`
 * [__graphql-bench__](https://github.com/hasura/graphql-bench) - A versatile tool for benchmarking and load-testing GraphQL services, as a CLI application or via programmatic API. `TSQL`
 * [__massive-attack__](https://github.com/delprks/massive-attack) - Load testing Thrift, made simple. `Scala`
 * [__memtier_benchmark__](https://github.com/RedisLabs/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool. `C++`
-* [__mqperf__](https://github.com/softwaremill/mqperf) - A benchmark of message queues with data replication and at-least-once delivery guarantees. `Scala`
-* [__mqtt-benchmark__](https://github.com/krylovsk/mqtt-benchmark) - A simple MQTT (broker) benchmarking tool. `Go`
-* [__mqtt-stresser__](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker. `Go`
-* [__mqttloader__](https://github.com/dist-sys/mqttloader) - Load testing tool for MQTT, capable of benchmark test for both MQTT v5.0 and v3.1.1 brokers. `Java`
-* [__rabbitmq-perf-test__](https://github.com/rabbitmq/rabbitmq-perf-test) - RabbitMQ performance testing tool. `Java`
 * [__rpc-perf__](https://github.com/twitter/rpc-perf) - A tool for benchmarking RPC services. `Rust`
 * [__rtmp_load__](https://github.com/fillest/rtmp_load) - A load testing tool for RTMP servers. `C`
 * [__sangrenel__](https://github.com/jamiealquiza/sangrenel) - Apache Kafka load testing. `Go`
@@ -142,6 +135,16 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 * [__ghz__](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool. `Go`
 * [__strest-grpc__](https://github.com/BuoyantIO/strest-grpc) - A load tester for stress testing gRPC intermediaries. `Go`
+
+#### mq
+
+* [__emqtt-bench__](https://github.com/emqx/emqtt-bench) - A simple MQTT v5.0 benchmark tool written in `Erlang`.
+* [__flotilla__](https://github.com/tylertreat/Flotilla) - Automated message queue orchestration for scaled-up benchmarking. `Go`
+* [__mqperf__](https://github.com/softwaremill/mqperf) - A benchmark of message queues with data replication and at-least-once delivery guarantees. `Scala`
+* [__mqtt-benchmark__](https://github.com/krylovsk/mqtt-benchmark) - A simple MQTT (broker) benchmarking tool. `Go`
+* [__mqtt-stresser__](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker. `Go`
+* [__mqttloader__](https://github.com/dist-sys/mqttloader) - Load testing tool for MQTT, capable of benchmark test for both MQTT v5.0 and v3.1.1 brokers. `Java`
+* [__rabbitmq-perf-test__](https://github.com/rabbitmq/rabbitmq-perf-test) - RabbitMQ performance testing tool. `Java`
 
 ### multi-protocol
 
