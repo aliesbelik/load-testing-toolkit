@@ -120,7 +120,6 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__bomberman__](https://github.com/c1982/bomberman) - SMTP performance and load testing tool. `Go`
 * [__emqtt-bench__](https://github.com/emqx/emqtt-bench) - A simple MQTT v5.0 benchmark tool written in `Erlang`.
 * [__flotilla__](https://github.com/tylertreat/Flotilla) - Automated message queue orchestration for scaled-up benchmarking. `Go`
-* [__ghz__](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool. `Go`
 * [__dhammer__](https://github.com/ipchama/dhammer) - DHCP stress tester and benchmark tool. `Go`
 * [__dnsperf__](https://github.com/DNS-OARC/dnsperf) - DNS performance testing tools. `C`
 * [__dnstress__](https://github.com/safedns/dnstress) - A DNS stress testing tool. `C`
@@ -137,8 +136,12 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__sangrenel__](https://github.com/jamiealquiza/sangrenel) - Apache Kafka load testing. `Go`
 * [__srs-bench__](https://github.com/ossrs/srs-bench) - A HTTP/RTMP/HLS load testing and benchmarking tool. `C++`
 * [__ssh-hammer__](https://github.com/shazow/ssh-hammer) - A SSH load testing tool. `Go`
-* [__strest-grpc__](https://github.com/BuoyantIO/strest-grpc) - A load tester for stress testing gRPC intermediaries. `Go`
 * [__tcpkali__](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator. `C`
+
+#### grpc
+
+* [__ghz__](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool. `Go`
+* [__strest-grpc__](https://github.com/BuoyantIO/strest-grpc) - A load tester for stress testing gRPC intermediaries. `Go`
 
 ### multi-protocol
 
