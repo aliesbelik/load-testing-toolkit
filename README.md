@@ -166,6 +166,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 ### nosql
 
 * [__memtier_benchmark__](https://github.com/RedisLabs/memtier_benchmark) - A high-throughput benchmarking tool for Redis & Memcached. `C++`
+* [__redisbench__](https://github.com/panjiang/redisbench) - Redis & Redis cluster benchmarking tool. `Go`
 
 ### storage
 
