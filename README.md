@@ -123,7 +123,6 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__dnstress__](https://github.com/safedns/dnstress) - A DNS stress testing tool. `C`
 * [__graphql-bench__](https://github.com/hasura/graphql-bench) - A versatile tool for benchmarking and load-testing GraphQL services, as a CLI application or via programmatic API. `TSQL`
 * [__massive-attack__](https://github.com/delprks/massive-attack) - Load testing Thrift, made simple. `Scala`
-* [__memtier_benchmark__](https://github.com/RedisLabs/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool. `C++`
 * [__rpc-perf__](https://github.com/twitter/rpc-perf) - A tool for benchmarking RPC services. `Rust`
 * [__rtmp_load__](https://github.com/fillest/rtmp_load) - A load testing tool for RTMP servers. `C`
 * [__sangrenel__](https://github.com/jamiealquiza/sangrenel) - Apache Kafka load testing. `Go`
@@ -163,6 +162,10 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__tank__](https://github.com/intuit/Tank) - A cloud native load testing platform. `Java`
 * [__tsung__](https://github.com/processone/tsung) - A multi-protocol distributed load testing tool, developed in `Erlang`.
 * [__yandex-tank__](https://github.com/yandex/yandex-tank) - An extendable load testing tool which is especially good as a part of an automated load testing suite. `Python`, `C`
+
+### nosql
+
+* [__memtier_benchmark__](https://github.com/RedisLabs/memtier_benchmark) - A high-throughput benchmarking tool for Redis & Memcached. `C++`
 
 ### storage
 
