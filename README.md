@@ -186,6 +186,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 ### graphql
 
+* [__easygraphql-load-tester__](https://github.com/EasyGraphQL/easygraphql-load-tester) - A `Node.js` library created to make load testing on GraphQL based on the schema.
 * [__graphql-bench__](https://github.com/hasura/graphql-bench) - A versatile tool for benchmarking and load-testing GraphQL services, as a CLI application or via programmatic API. `TSQL`
 
 ## DoS/DDoS penetration testing
