@@ -3,7 +3,7 @@
 > *“I have enough trouble with useful information, never mind being burdened with what is useless.”*\
 > ― Erlend Loe, Naïve. Super
 
-Collection of **open source** tools for debugging, benchmarking, load and stress testing your code or services.
+Collection of **open-source** tools for debugging, benchmarking, load and stress testing your code or services.
 
 **NOTE:** Unfortunately I've found this original *awesome* collection too late: [__awesome-http-benchmark__](https://github.com/denji/awesome-http-benchmark).\
 Feel free to follow and contribute to it instead of this collection, which remains my personal variation and working copy.
@@ -150,7 +150,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__ddosify__](https://github.com/ddosify/ddosify) - High-performance load testing and DDOS attack simulation tool, written in `Go`.
 * [__gatling__](https://github.com/gatling/gatling) - A load and performance testing framework based on `Scala`, Akka and Netty.
 * [__grinder__](https://github.com/cossme/grinder) - A distributed load testing framework written in `Java`, with test scenario scripting in `Jython` and `Clojure`.
-* [__jagger__](https://github.com/griddynamics/jagger) - An open source framework for Continuous Performance Testing written in `Java`.
+* [__jagger__](https://github.com/griddynamics/jagger) - An open-source framework for Continuous Performance Testing written in `Java`.
 * [__jmeter__](https://github.com/apache/jmeter) - A `Java` tool designed to load test functional behavior and measure performance of a variety of services, with a focus on web applications.
 * [__k6__](https://github.com/grafana/k6) - A modern load testing tool, using `Go` and `JavaScript`.
 * [__locust__](https://github.com/locustio/locust) - Scalable distributed load testing tool written in `Python`.
@@ -187,7 +187,12 @@ Feel free to follow and contribute to it instead of this collection, which remai
 ### graphql
 
 * [__easygraphql-load-tester__](https://github.com/EasyGraphQL/easygraphql-load-tester) - A `Node.js` library created to make load testing on GraphQL based on the schema.
-* [__graphql-bench__](https://github.com/hasura/graphql-bench) - A versatile tool for benchmarking and load-testing GraphQL services, as a CLI application or via programmatic API. `TSQL`
+* [__graphql-bench__](https://github.com/hasura/graphql-bench) - A versatile tool for benchmarking and load testing GraphQL services, as a CLI application or via programmatic API. `TSQL`
+
+### blockchain
+
+* [__caliper__](https://github.com/hyperledger/caliper) - A blockchain benchmark framework to measure performance of multiple blockchain solutions. `JavaScript`
+* [__gohammer__](https://github.com/tubuarge/gohammer) - A blockchain test tool designed to get performance metrics of the nodes and operation system by deploying a smart contract and calling smart contract's methods. `Go`
 
 ## DoS/DDoS penetration testing
 
