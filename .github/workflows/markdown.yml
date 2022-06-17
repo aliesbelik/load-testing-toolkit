@@ -1,0 +1,26 @@
+name: Markdown check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    types: [opened, synchronize]
+  schedule:
+    # run every Monday at 3 AM
+    - cron: "0 3 * * 1"
+
+jobs:
+  markdown-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Run markdown lint
+      uses: nosborn/github-action-markdown-cli@v3.1.0
+      with:
+        files: README.md
+        config_file: .markdownlint.json
+    - name: Run markdown lint
+      uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-verbose-mode: 'yes'
+        config-file: '.mlc_config.json'

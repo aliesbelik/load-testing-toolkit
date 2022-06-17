@@ -3,9 +3,9 @@
 > *“I have enough trouble with useful information, never mind being burdened with what is useless.”*\
 > ― Erlend Loe, Naïve. Super
 
-Collection of **open-source** tools for debugging, benchmarking, load and stress testing your code or services.
+Collection of __open-source__ tools for debugging, benchmarking, load and stress testing your code or services.
 
-**NOTE:** Unfortunately I've found this original *awesome* collection too late: [__awesome-http-benchmark__](https://github.com/denji/awesome-http-benchmark).\
+__NOTE:__ Unfortunately I've found this original *awesome* collection too late: [__awesome-http-benchmark__](https://github.com/denji/awesome-http-benchmark).\
 Feel free to follow and contribute to it instead of this collection, which remains my personal variation and working copy.
 
 > In alphabetical order.
