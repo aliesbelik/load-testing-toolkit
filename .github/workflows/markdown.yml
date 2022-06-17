@@ -2,25 +2,32 @@ name: Markdown check
 
 on:
   push:
-    branches: [main]
+    paths:
+      - '**.md'
   pull_request:
-    types: [opened, synchronize]
+    paths:
+      - '**.md'
   schedule:
     # run every Monday at 3 AM
-    - cron: "0 3 * * 1"
+    - cron: '0 3 * * 1'
 
 jobs:
-  markdown-check:
+  markdown-lint:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Run markdown lint
+    - name: markdown-lint
       uses: nosborn/github-action-markdown-cli@v3.1.0
       with:
         files: README.md
         config_file: .markdownlint.json
-    - name: Run markdown lint
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: markdown-link-check
       uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
         use-verbose-mode: 'yes'
+        check-modified-files-only: 'yes'
         config-file: '.mlc_config.json'
