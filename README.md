@@ -77,7 +77,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__httpit__](https://github.com/gonetx/httpit) - A rapid HTTP/S benchmark tool, written in `Go`.
 * [__httpress__](https://github.com/virtuozzo/httpress) - High performance HTTP server stress & benchmark utility, inspired by [weighttp](https://github.com/lighttpd/weighttp). `C`
 * [__hulken__](https://github.com/hellgrenj/hulken) - Stress testing tool for everything speaking HTTP. `JavaScript`
-* [__hurl__](https://github.com/EdgeCast/hurl) - HTTP server load test and parallel [curl](https://github.com/curl/curl) utilities. `C++`
+* [__hurl__](https://github.com/edgio/hurl) - HTTP server load test and parallel [curl](https://github.com/curl/curl) utilities. `C++`
 * [__iago2__](https://github.com/twitter/iago2) - A load generator, built for engineers. `Scala`
 * [__jbender__](https://github.com/pinterest/jbender) - A port of [bender](https://github.com/pinterest/bender) to the JVM platform with Quasar lightweight threads (fibers) and channels. `Java`
 * [__jetty-load-generator__](https://github.com/jetty-project/jetty-load-generator) - An API for load testing HTTP servers, based on Jetty's HttpClient and `Java` 11+.
@@ -97,7 +97,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__pounce__](https://github.com/fredrikwidlund/pounce) – HTTP benchmark utility, written in `C`.
 * [__pronk__](https://github.com/bos/pronk) - A small command line application for load testing web servers. `Haskell`
 * [__reqstress__](https://github.com/utkusen/reqstress) - A benchmarking & stressing tool that can send raw HTTP requests, written in `Go`.
-* [__rewrk__](https://github.com/ChillFish8/rewrk) - A modern HTTP framework benchmarking utility supporting HTTP/1 and HTTP/2 benchmarks. `Rust`
+* [__rewrk__](https://github.com/lnx-search/rewrk) - A modern HTTP framework benchmarking utility supporting HTTP/1 and HTTP/2 benchmarks. `Rust`
 * [__salvo__](https://github.com/tarekziade/salvo) - Like [boom](https://github.com/tarekziade/boom), but based on [molotov](https://github.com/loads/molotov). `Python`
 * [__siege__](https://github.com/JoeDog/siege) - A HTTP load tester and benchmarking utility. `C`
 * [__slapper__](https://github.com/ikruglov/slapper) - Simple load testing tool with real-time updated histogram of request timings. `Go`
