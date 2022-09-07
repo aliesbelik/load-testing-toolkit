@@ -67,6 +67,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__go-wrk__](https://github.com/adjust/go-wrk) - A small heavy duty HTTP/S benchmark tool, similar to [wrk](https://github.com/wg/wrk), but written in `Go`.
 * [__goad__](https://github.com/goadapp/goad) - An AWS Lambda powered, highly distributed, load testing tool. `Go`
 * [__gobench__](https://github.com/cmpxchg16/gobench) - HTTP/S load testing and benchmarking tool. `Go`
+* [__gocannon__](https://github.com/kffl/gocannon) - A lightweight HTTP benchmarking tool, intended to measure changes in backend application performance over time. `Go`
 * [__gohttpbench__](https://github.com/parkghost/gohttpbench) - An [ab](https://httpd.apache.org/docs/current/programs/ab.html)-like benchmark tool run on multi-core cpu. `Go`
 * [__goku__](https://github.com/k-nasa/goku) - HTTP load testing application written in `Rust`.
 * [__goose__](https://github.com/tag1consulting/goose) - A `Rust` load testing tool inspired by [locust](https://github.com/locustio/locust).
