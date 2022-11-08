@@ -55,7 +55,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__carrot__](https://github.com/gophercarrot/carrot) - Distributed WebSocket and HTTP load testing framework in `Go`.
 * [__cassowary__](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load testing tool written in `Go`.
 * [__chaperon__](https://github.com/polleverywhere/chaperon) - HTTP service performance & load testing framework. `Elixir`
-* [__curl-loader__](http://curl-loader.sourceforge.net/) - A load generating tool written in `C`, simulating HTTP/S, FTP/S and TLS/SSL clients each with own IP-address.
+* [__curl-loader__](https://curl-loader.sourceforge.net/) - A load generating tool written in `C`, simulating HTTP/S, FTP/S and TLS/SSL clients each with own IP-address.
 * [__drill__](https://github.com/fcsonline/drill) - A HTTP load testing application, written in `Rust`, inspired by Ansible syntax.
 * [__encarno__](https://github.com/undera/encarno) - Load generator for HTTP with high throughput and high precision. `Go`
 * [__f1__](https://github.com/form3tech-oss/f1) - A flexible load testing framework using `Go` for test scenarios.
@@ -86,7 +86,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__legion__](https://github.com/lane-webperformance/legion) - A `JavaScript`-based load testing tool for HTTP servers and other kinds of software.
 * [__loadtest__](https://github.com/alexfernandez/loadtest) - A `JavaScript` package for load testing with HTTP/S and WebSockets support and API for easy integration.
 * [__mgun__](https://github.com/byorty/mgun) - A modern tool for load testing HTTP servers, written in `Go`.
-* [__molotov__](https://github.com/loads/molotov) - Simple `Python` 3.5+ tool to write load tests.
+* [__molotov__](https://github.com/tarekziade/molotov) - Simple `Python` 3.7+ tool to write load tests.
 * [__nbomber__](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios, written in `F#` and targeting .NET Core and full .NET Framework.
 * [__netling__](https://github.com/hallatore/netling) - Load testing client for easy web testing. `C#`
 * [__node-ab__](https://github.com/doubaokun/node-ab) - A command line tool to test the performance of HTTP services. `Node.js`
