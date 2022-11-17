@@ -184,6 +184,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 ### k8s
 
+* [__k-bench__](https://github.com/vmware-tanzu/k-bench) - Workload benchmark for Kubernetes. `Go`
 * [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
 * [__kube-burner__](https://github.com/cloud-bulldozer/kube-burner) - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects. `Go`
 
