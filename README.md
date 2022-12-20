@@ -100,7 +100,8 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__pronk__](https://github.com/bos/pronk) - A small command line application for load testing web servers. `Haskell`
 * [__reqstress__](https://github.com/utkusen/reqstress) - A benchmarking & stressing tool that can send raw HTTP requests, written in `Go`.
 * [__rewrk__](https://github.com/lnx-search/rewrk) - A modern HTTP framework benchmarking utility supporting HTTP/1 and HTTP/2 benchmarks. `Rust`
-* [__salvo__](https://github.com/tarekziade/salvo) - Like [boom](https://github.com/tarekziade/boom), but based on [molotov](https://github.com/loads/molotov). `Python`
+* [__salvo__](https://github.com/tarekziade/salvo) - Like [boom](https://github.com/tarekziade/boom), but based on [molotov](https://github.com/tarekziade/molotov). `Python`
+* [__sb__](https://github.com/aliostad/SuperBenchmarker) - SuperBenchmarker, ApacheBench ([ab](https://httpd.apache.org/docs/current/programs/ab.html)) on steroids. `C#`
 * [__siege__](https://github.com/JoeDog/siege) - A HTTP load tester and benchmarking utility. `C`
 * [__slapper__](https://github.com/ikruglov/slapper) - Simple load testing tool with real-time updated histogram of request timings. `Go`
 * [__slow_cooker__](https://github.com/BuoyantIO/slow_cooker) - A load tester focused on lifecycle issues and long-running tests. `Go`
