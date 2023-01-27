@@ -133,6 +133,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 #### dns
 
 * [__dnsblast__](https://github.com/sandeeprenjith/dnsblast) - A DNS performance testing utility. `Go`
+* [__dnsmeter__](https://github.com/DNS-OARC/dnsmeter) - A tool for testing performance of nameservers and the infrastructure around it. `C++`
 * [__dnsperf__](https://github.com/DNS-OARC/dnsperf) - DNS performance testing tools. `C`
 * [__dnstress__](https://github.com/safedns/dnstress) - A DNS stress testing tool. `C`
 
