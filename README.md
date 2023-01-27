@@ -122,9 +122,6 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__bench__](https://github.com/tylertreat/bench) - A generic latency benchmarking library. `Go`
 * [__bomberman__](https://github.com/c1982/bomberman) - SMTP performance and load testing tool. `Go`
 * [__dhammer__](https://github.com/ipchama/dhammer) - DHCP stress tester and benchmark tool. `Go`
-* [__dnsblast__](https://github.com/sandeeprenjith/dnsblast) - A DNS performance testing utility. `Go`
-* [__dnsperf__](https://github.com/DNS-OARC/dnsperf) - DNS performance testing tools. `C`
-* [__dnstress__](https://github.com/safedns/dnstress) - A DNS stress testing tool. `C`
 * [__massive-attack__](https://github.com/delprks/massive-attack) - Load testing Thrift, made simple. `Scala`
 * [__rpc-perf__](https://github.com/twitter/rpc-perf) - A tool for benchmarking RPC services. `Rust`
 * [__rtmp_load__](https://github.com/fillest/rtmp_load) - A load testing tool for RTMP servers. `C`
@@ -132,6 +129,12 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__srs-bench__](https://github.com/ossrs/srs-bench) - A HTTP/RTMP/HLS load testing and benchmarking tool. `C++`
 * [__ssh-hammer__](https://github.com/shazow/ssh-hammer) - A SSH load testing tool. `Go`
 * [__tcpkali__](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator. `C`
+
+#### dns
+
+* [__dnsblast__](https://github.com/sandeeprenjith/dnsblast) - A DNS performance testing utility. `Go`
+* [__dnsperf__](https://github.com/DNS-OARC/dnsperf) - DNS performance testing tools. `C`
+* [__dnstress__](https://github.com/safedns/dnstress) - A DNS stress testing tool. `C`
 
 #### grpc
 
