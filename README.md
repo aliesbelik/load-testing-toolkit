@@ -197,6 +197,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 #### time-series
 
+* [__prometheus-benchmark__](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems on production-like workload. `Go`
 * [__tsbs__](https://github.com/timescale/tsbs) - Time Series Benchmark Suite, a tool for comparing and evaluating databases for time series data. `Go`
 
 ### k8s
