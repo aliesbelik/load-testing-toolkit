@@ -204,6 +204,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 ### k8s
 
 * [__k8s-bench-suite__](https://github.com/InfraBuilder/k8s-bench-suite) - Simple scripts to benchmark Kubernetes cluster features. `Shell`
+* [__k8s-netperf__](https://github.com/jtaleric/k8s-netperf) - Running networking performance tests against Kubernetes. `Go`
 * [__k-bench__](https://github.com/vmware-tanzu/k-bench) - Workload benchmark for Kubernetes. `Go`
 * [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
 * [__kube-burner__](https://github.com/cloud-bulldozer/kube-burner) - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects. `Go`
