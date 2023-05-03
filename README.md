@@ -55,6 +55,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__carrot__](https://github.com/gophercarrot/carrot) - Distributed WebSocket and HTTP load testing framework in `Go`.
 * [__cassowary__](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load testing tool written in `Go`.
 * [__chaperon__](https://github.com/polleverywhere/chaperon) - HTTP service performance & load testing framework. `Elixir`
+* [__clobbr__](https://github.com/parsecph/clobbr) - A tool to check the speed and resilience of API endpoints against multiple parallel or sequence requests. `JavaScript`
 * [__curl-loader__](https://curl-loader.sourceforge.net/) - A load generating tool written in `C`, simulating HTTP/S, FTP/S and TLS/SSL clients each with own IP-address.
 * [__drill__](https://github.com/fcsonline/drill) - A HTTP load testing application, written in `Rust`, inspired by Ansible syntax.
 * [__encarno__](https://github.com/undera/encarno) - Load generator for HTTP with high throughput and high precision. `Go`
