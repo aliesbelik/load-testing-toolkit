@@ -145,6 +145,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 #### kafka
 
+* [__kafka-stress__](https://github.com/msfidelis/kafka-stress) - CLI tool to stress Apache Kafka clusters. `Go`
 * [__sangrenel__](https://github.com/jamiealquiza/sangrenel) - Apache Kafka load testing. `Go`
 
 #### mq
