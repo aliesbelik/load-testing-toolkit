@@ -71,6 +71,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__gocannon__](https://github.com/kffl/gocannon) - A lightweight HTTP benchmarking tool, intended to measure changes in backend application performance over time. `Go`
 * [__gohttpbench__](https://github.com/parkghost/gohttpbench) - An [ab](https://httpd.apache.org/docs/current/programs/ab.html)-like benchmark tool run on multi-core cpu. `Go`
 * [__goku__](https://github.com/k-nasa/goku) - HTTP load testing application written in `Rust`.
+* [__goku-bench__](https://github.com/jcaromiq/goku) - An HTTP load testing tool built out of a need to drill HTTP services inspired by [drill](https://github.com/fcsonline/drill) and [vegeta](https://github.com/tsenart/vegeta). `Rust`
 * [__goose__](https://github.com/tag1consulting/goose) - A `Rust` load testing tool inspired by [locust](https://github.com/locustio/locust).
 * [__goperf__](https://github.com/gnulnx/goperf) - `Go` based load tester with a simple intuitive command line syntax.
 * [__hargo__](https://github.com/mrichman/hargo) - `Go` library and command line utility that parses HAR files, can convert to [curl](https://github.com/curl/curl) format, and serve as a load test driver.
