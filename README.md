@@ -77,6 +77,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__hargo__](https://github.com/mrichman/hargo) - `Go` library and command line utility that parses HAR files, can convert to [curl](https://github.com/curl/curl) format, and serve as a load test driver.
 * [__hey__](https://github.com/rakyll/hey) - HTTP load generator, [ab](https://httpd.apache.org/docs/current/programs/ab.html) replacement. `Go`
 * [__htstress__](https://github.com/arut/htstress) - Fast HTTP benchmarking tool, similar to [ab](https://httpd.apache.org/docs/current/programs/ab.html) but provides multithreading support. `C`
+* [__http_bench__](https://github.com/linkxzhou/http_bench) - An HTTP(/1/2/3) and WebSockets stress testing tool, with both single and distributed modes. `Go`
 * [__httperf__](https://github.com/httperf/httperf) - A tool for measuring web server performance. `C`
 * [__httpit__](https://github.com/gonetx/httpit) - A rapid HTTP/S benchmark tool, written in `Go`.
 * [__httpress__](https://github.com/virtuozzo/httpress) - High performance HTTP server stress & benchmark utility, inspired by [weighttp](https://github.com/lighttpd/weighttp). `C`
