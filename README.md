@@ -88,6 +88,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__jetty-load-generator__](https://github.com/jetty-project/jetty-load-generator) - An API for load testing HTTP servers, based on Jetty's HttpClient and `Java` 11+.
 * [__legion__](https://github.com/lane-webperformance/legion) - A `JavaScript`-based load testing tool for HTTP servers and other kinds of software.
 * [__loadtest__](https://github.com/alexfernandez/loadtest) - A `JavaScript` package for load testing with HTTP/S and WebSockets support and API for easy integration.
+* [__loadtesttoolbox__](https://github.com/ecoAPM/LoadTestToolbox) - Lightweight tools for load testing web applications, written in `C#`.
 * [__mgun__](https://github.com/byorty/mgun) - A modern tool for load testing HTTP servers, written in `Go`.
 * [__molotov__](https://github.com/tarekziade/molotov) - Simple `Python` 3.7+ tool to write load tests.
 * [__nbomber__](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios, written in `F#` and targeting .NET Core and full .NET Framework.
