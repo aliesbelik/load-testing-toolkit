@@ -73,6 +73,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__goku__](https://github.com/k-nasa/goku) - HTTP load testing application written in `Rust`.
 * [__goku-bench__](https://github.com/jcaromiq/goku) - An HTTP load testing tool built out of a need to drill HTTP services inspired by [drill](https://github.com/fcsonline/drill) and [vegeta](https://github.com/tsenart/vegeta). `Rust`
 * [__goose__](https://github.com/tag1consulting/goose) - A `Rust` load testing tool inspired by [locust](https://github.com/locustio/locust).
+* [__gopayloader__](https://github.com/domsolutions/gopayloader) - HTTP/S benchmark/load testing cross-platform tool with optional JWT generation, inspired by [bombardier](https://github.com/codesenberg/bombardier). `Go`
 * [__goperf__](https://github.com/gnulnx/goperf) - `Go` based load tester with a simple intuitive command line syntax.
 * [__hargo__](https://github.com/mrichman/hargo) - `Go` library and command line utility that parses HAR files, can convert to [curl](https://github.com/curl/curl) format, and serve as a load test driver.
 * [__hey__](https://github.com/rakyll/hey) - HTTP load generator, [ab](https://httpd.apache.org/docs/current/programs/ab.html) replacement. `Go`
