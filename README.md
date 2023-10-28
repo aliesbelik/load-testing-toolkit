@@ -20,19 +20,19 @@ Feel free to follow and contribute to it instead of this collection, which remai
 ## Debugging & API testing
 
 * [__baloo__](https://github.com/h2non/baloo) - Expressive and versatile end-to-end HTTP API testing made easy in `Go`.
-* [__bat__](https://github.com/astaxie/bat) - A [curl](https://github.com/curl/curl)-like tool for humans, inspired by [httpie](https://github.com/httpie/httpie), written in `Go`.
+* [__bat__](https://github.com/astaxie/bat) - A [curl](https://github.com/curl/curl)-like tool for humans, inspired by [httpie](https://github.com/httpie/cli), written in `Go`.
 * [__curl__](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax. `C`
-* [__curlie__](https://github.com/rs/curlie) - The power of [curl](https://github.com/curl/curl), the ease of use of [httpie](https://github.com/httpie/httpie). `Go`
+* [__curlie__](https://github.com/rs/curlie) - The power of [curl](https://github.com/curl/curl), the ease of use of [httpie](https://github.com/httpie/cli). `Go`
 * [__curlx__](https://github.com/shivkanthb/curlx) - Supercharge [curl](https://github.com/curl/curl) with history, collections and more. `JavaScript`
-* [__hopp-cli__](https://github.com/hoppscotch/hopp-cli) - An HTTP CLI client for [hoppscotch](https://hoppscotch.io/), an alternative to [curl](https://github.com/curl/curl), [httpie](https://github.com/httpie/httpie). `Go`
+* [__hopp-cli__](https://github.com/hoppscotch/hopp-cli) - An HTTP CLI client for [hoppscotch](https://hoppscotch.io/), an alternative to [curl](https://github.com/curl/curl), [httpie](https://github.com/httpie/cli). `Go`
 * [__httpcat__](https://github.com/httpie/httpcat) - A simple utility for constructing raw HTTP requests on the command line. `Python`
-* [__httpie__](https://github.com/httpie/httpie) - Modern command line HTTP client, user-friendly [curl](https://github.com/curl/curl) alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. `Python`
-* [__httpie-go__](https://github.com/nojima/httpie-go) - [httpie](https://github.com/httpie/httpie)-like HTTP client written in `Go`.
-* [__httping__](https://github.com/BretFisher/httping-docker) - A ping-like utility for HTTP requests. `C`
+* [__httpie__](https://github.com/httpie/cli) - Modern command line HTTP client, user-friendly [curl](https://github.com/curl/curl) alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. `Python`
+* [__httpie-go__](https://github.com/nojima/httpie-go) - [httpie](https://github.com/httpie/cli)-like HTTP client written in `Go`.
+* [__httping__](https://github.com/folkertvanheusden/httping) - A ping-like utility for HTTP requests. `C`
 * [__httpstat__](https://github.com/reorx/httpstat) - [curl](https://github.com/curl/curl) statistics visualization in a way of beauty and clarity. `Python`
 * [__hurl__](https://github.com/Orange-OpenSource/hurl) - A command line tool to perform HTTP requests defined in a simple plain text format. `Rust`
 * [__wuzz__](https://github.com/asciimoo/wuzz) - Interactive command line tool for HTTP inspection. `Go`
-* [__xh__](https://github.com/ducaale/xh) – Yet another [httpie](https://github.com/httpie/httpie) clone in `Rust`.
+* [__xh__](https://github.com/ducaale/xh) – Yet another [httpie](https://github.com/httpie/cli) clone in `Rust`.
 
 ## Benchmarking & load testing
 
@@ -61,7 +61,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__encarno__](https://github.com/undera/encarno) - Load generator for HTTP with high throughput and high precision. `Go`
 * [__f1__](https://github.com/form3tech-oss/f1) - A flexible load testing framework using `Go` for test scenarios.
 * [__fasthttploader__](https://github.com/hagen1778/fasthttploader) - HTTP benchmark (kinda [ab](https://httpd.apache.org/docs/current/programs/ab.html)) with autoadjustment and charts based on fasthttp library. `Go`
-* [__fbender__](https://github.com/facebookincubator/fbender) - A load testing command line tool for generic network protocols, originally based on [bender](https://github.com/pinterest/bender) library. `Go`
+* [__fbender__](https://github.com/facebookarchive/fbender) - A load testing command line tool for generic network protocols, originally based on [bender](https://github.com/pinterest/bender) library. `Go`
 * [__fortio__](https://github.com/fortio/fortio) - Load testing library, command line tool, advanced echo server and web UI in `Go`.
 * [__freeloader__](https://github.com/rprieto/freeloader) - Super easy load testing framework, with load scenarios in `JavaScript`.
 * [__go-meter__](https://github.com/a696385/go-meter) - A HTTP benchmark tool written in `Go`.
