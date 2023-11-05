@@ -207,6 +207,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__cosbench__](https://github.com/intel-cloud/cosbench) - A benchmark tool for cloud object storage service. `Java`
 * [__mongoose__](https://github.com/emc-mongoose/mongoose) - Distributed storage performance testing tool. `Java`
 * [__ostorebench__](https://github.com/EVERYGO111/OStoreBench) - A benchmark tool for distributed object storage systems. `Go`
+* [__warp__](https://github.com/minio/warp) - S3 benchmarking tool. `Go`
 
 #### time-series
 
