@@ -242,6 +242,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__hulk__](https://github.com/grafov/hulk) - Original HULK web server DoS attack tool ported to `Go` with some additional features.
 * [__hulk-v3__](https://github.com/Hyperclaw79/HULK-v3) - `Python` 3 compatible async HULK script for DDoS attacks.
 * [__lor-axe__](https://github.com/ajmwagar/lor-axe) - A multi-threaded, low-bandwidth HTTP DoS tool, written in `Rust`.
+* [__rip__](https://github.com/bjarneo/rip) - An HTTP load testing and UDP flood attack tool. `Go`
 * [__slowhttptest__](https://github.com/shekyan/slowhttptest) - A highly configurable application layer DoS attack simulator. `C++`
 * [__slowloris__](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool, rewrite in `Python`.
 * [__wreckuests__](https://github.com/abriginets/wreckuests) - Yet another one hard-hitting tool to run DDoS attacks with HTTP-flood. `Python`
