@@ -207,6 +207,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__cosbench__](https://github.com/intel-cloud/cosbench) - A benchmark tool for cloud object storage service. `Java`
 * [__mongoose__](https://github.com/emc-mongoose/mongoose) - Distributed storage performance testing tool. `Java`
 * [__ostorebench__](https://github.com/EVERYGO111/OStoreBench) - A benchmark tool for distributed object storage systems. `Go`
+* [__s3-benchmark__](https://github.com/dvassallo/s3-benchmark) - S3 benchmarking tool. `Go`
 * [__warp__](https://github.com/minio/warp) - S3 benchmarking tool. `Go`
 
 #### time-series
@@ -220,7 +221,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__k8s-netperf__](https://github.com/jtaleric/k8s-netperf) - Running networking performance tests against Kubernetes. `Go`
 * [__k-bench__](https://github.com/vmware-tanzu/k-bench) - Workload benchmark for Kubernetes. `Go`
 * [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
-* [__kube-burner__](https://github.com/cloud-bulldozer/kube-burner) - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects. `Go`
+* [__kube-burner__](https://github.com/kube-burner/kube-burner) - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects. `Go`
 
 ### graphql
 
