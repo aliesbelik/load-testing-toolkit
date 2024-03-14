@@ -205,6 +205,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 #### object storage
 
 * [__cosbench__](https://github.com/intel-cloud/cosbench) - A benchmark tool for cloud object storage service. `Java`
+* [__gosbench__](https://github.com/mulbc/gosbench) - Distributed S3 performance benchmark tool with Prometheus exporter, `Go` reimplementation of [cosbench](https://github.com/intel-cloud/cosbench).
 * [__mongoose__](https://github.com/emc-mongoose/mongoose) - Distributed storage performance testing tool. `Java`
 * [__os-benchmark__](https://github.com/cloudmercato/os-benchmark) - Handy tool for object storage performance benchmarking. `Python`
 * [__ostorebench__](https://github.com/EVERYGO111/OStoreBench) - A benchmark tool for distributed object storage systems. `Go`
