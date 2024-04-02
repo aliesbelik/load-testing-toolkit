@@ -225,6 +225,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
 * [__kube-burner__](https://github.com/kube-burner/kube-burner) - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects. `Go`
 * [__kubestr__](https://github.com/kastenhq/kubestr) - A collection of tools to discover, validate and evaluate Kubernetes storage options. `Go`
+* [__perf-tests__](https://github.com/kubernetes/perf-tests) - Kubernetes-related performance testing tools and benchmarks. `Go`
 
 ### graphql
 
