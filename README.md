@@ -24,6 +24,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__curl__](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax. `C`
 * [__curlie__](https://github.com/rs/curlie) - The power of [curl](https://github.com/curl/curl), the ease of use of [httpie](https://github.com/httpie/cli). `Go`
 * [__curlx__](https://github.com/shivkanthb/curlx) - Supercharge [curl](https://github.com/curl/curl) with history, collections and more. `JavaScript`
+* [__hitt__](https://github.com/hougesen/hitt) - File based HTTP testing tool focused on speed and simplicity. `Rust`
 * [__hopp-cli__](https://github.com/hoppscotch/hopp-cli) - An HTTP CLI client for [hoppscotch](https://hoppscotch.io/), an alternative to [curl](https://github.com/curl/curl), [httpie](https://github.com/httpie/cli). `Go`
 * [__httpcat__](https://github.com/httpie/httpcat) - A simple utility for constructing raw HTTP requests on the command line. `Python`
 * [__httpie__](https://github.com/httpie/cli) - Modern command line HTTP client, user-friendly [curl](https://github.com/curl/curl) alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. `Python`
