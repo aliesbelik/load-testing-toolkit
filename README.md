@@ -257,6 +257,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 * [__goreplay__](https://github.com/buger/goreplay) - A network monitoring tool which can record live traffic, and use it for shadowing, load testing, monitoring and detailed analysis. `Go`
 * [__ripley__](https://github.com/loveholidays/ripley) - HTTP traffic replay tool at multiples of the original rate. `Go`
+* [__shadowreader__](https://github.com/edmunds/shadowreader) - Serverless load testing tool for replaying website traffic by collecting traffic patterns from access logs, powered by AWS Lambda, S3 and ELB. `Python`
 * [__tcpcopy__](https://github.com/session-replay-tools/tcpcopy) - A TCP stream replay tool to support real testing of server applications. `C`
 
 ## Contribute
