@@ -16,6 +16,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [Benchmarking & load testing](#benchmarking--load-testing)
 * [DoS/DDoS penetration testing](#dosddos-penetration-testing)
 * [Traffic replay](#traffic-replay)
+* [Latency simulation](#latency-simulation)
 
 ## Debugging & API testing
 
@@ -260,6 +261,13 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__ripley__](https://github.com/loveholidays/ripley) - HTTP traffic replay tool at multiples of the original rate. `Go`
 * [__shadowreader__](https://github.com/edmunds/shadowreader) - Serverless load testing tool for replaying website traffic by collecting traffic patterns from access logs, powered by AWS Lambda, S3 and ELB. `Python`
 * [__tcpcopy__](https://github.com/session-replay-tools/tcpcopy) - A TCP stream replay tool to support real testing of server applications. `C`
+
+## Latency simulation
+
+* [__clumsy__](https://github.com/jagt/clumsy) - Makes your network condition on Windows significantly worse, but in a controlled and interactive manner. `C`
+* [__comcast__](https://github.com/tylertreat/comcast) -  A tool designed to simulate common network problems like latency, bandwidth restrictions, and dropped/reordered/corrupted packets. `Go`
+* [__speedbump__](https://github.com/kffl/speedbump) - A TCP proxy for simulating variable, yet predictable network latency. `Go`
+* [__toxiproxy__](https://github.com/Shopify/toxiproxy) - A TCP proxy to simulate network and system conditions for chaos and resiliency testing. `Go`
 
 ## Contribute
 
