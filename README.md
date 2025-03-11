@@ -136,7 +136,6 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__rtmp_load__](https://github.com/fillest/rtmp_load) - A load testing tool for RTMP servers. `C`
 * [__srs-bench__](https://github.com/ossrs/srs-bench) - A HTTP/RTMP/HLS load testing and benchmarking tool. `C++`
 * [__ssh-hammer__](https://github.com/shazow/ssh-hammer) - A SSH load testing tool. `Go`
-* [__tcpkali__](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator. `C`
 
 #### dns
 
@@ -157,7 +156,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__kafka-stress__](https://github.com/msfidelis/kafka-stress) - CLI tool to stress Apache Kafka clusters. `Go`
 * [__sangrenel__](https://github.com/jamiealquiza/sangrenel) - Apache Kafka load testing. `Go`
 
-#### mq
+#### mq(tt)
 
 * [__emqtt-bench__](https://github.com/emqx/emqtt-bench) - A simple MQTT v5.0 benchmark tool written in `Erlang`.
 * [__flotilla__](https://github.com/tylertreat/Flotilla) - Automated message queue orchestration for scaled-up benchmarking. `Go`
@@ -179,7 +178,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__k6__](https://github.com/grafana/k6) - A modern load testing tool, using `Go` and `JavaScript`.
 * [__locust__](https://github.com/locustio/locust) - Scalable distributed load testing tool written in `Python`.
 * [__multi-mechanize__](https://github.com/cgoldberg/multi-mechanize) - Performance and load testing framework written in `Python`.
-* [__mzbench__](https://github.com/satori-com/mzbench) - Expressive, scalable load testing tool, with multiple protocols support. `Erlang`
+* [__mzbench__](https://github.com/mzbench/mzbench) - Expressive, scalable load testing tool, with multiple protocols support. `Erlang`
 * [__ngrinder__](https://github.com/naver/ngrinder) - Enterprise level performance testing solution based on [The Grinder](https://github.com/cossme/grinder). `Java`
 * [__predator__](https://github.com/Zooz/predator) - A distributed open-source platform for load testing APIs using custom version of [artillery](https://github.com/artilleryio/artillery) as load testing engine. `Node.js`
 * [__tank__](https://github.com/intuit/Tank) - A cloud native load testing platform. `Java`
@@ -237,7 +236,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 ### blockchain
 
-* [__caliper__](https://github.com/hyperledger/caliper) - A blockchain benchmark framework to measure performance of multiple blockchain solutions. `JavaScript`
+* [__caliper__](https://github.com/hyperledger-caliper/caliper) - A blockchain benchmark framework to measure performance of multiple blockchain solutions. `JavaScript`
 * [__gohammer__](https://github.com/tubuarge/gohammer) - A blockchain test tool designed to get performance metrics of the nodes and operation system by deploying a smart contract and calling smart contract's methods. `Go`
 
 ## DoS/DDoS penetration testing
