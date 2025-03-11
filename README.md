@@ -139,6 +139,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 #### dns
 
+* [__bulldohzer__](https://github.com/commonshost/bulldohzer) - A performance measurement tool for DNS. `JavaScript`
 * [__dnsblast__](https://github.com/sandeeprenjith/dnsblast) - A DNS performance testing utility. `Go`
 * [__dnsblast__](https://github.com/jedisct1/dnsblast) - A simple and stupid load testing tool for DNS resolvers. `C`
 * [__dnsmeter__](https://github.com/DNS-OARC/dnsmeter) - A tool for testing performance of nameservers and the infrastructure around it. `C++`
