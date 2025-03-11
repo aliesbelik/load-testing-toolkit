@@ -237,6 +237,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 ### blockchain
 
 * [__caliper__](https://github.com/hyperledger-caliper/caliper) - A blockchain benchmark framework to measure performance of multiple blockchain solutions. `JavaScript`
+* [__chainbench__](https://github.com/chainstacklabs/chainbench) - Flexible blockchain infrastructure benchmarking and load testing tool, uses [locust](https://github.com/locustio/locust) under the hood. `Python`
 * [__gohammer__](https://github.com/tubuarge/gohammer) - A blockchain test tool designed to get performance metrics of the nodes and operation system by deploying a smart contract and calling smart contract's methods. `Go`
 
 ## DoS/DDoS penetration testing
