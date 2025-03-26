@@ -115,6 +115,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__slapper__](https://github.com/ikruglov/slapper) - Simple load testing tool with real-time updated histogram of request timings. `Go`
 * [__slow_cooker__](https://github.com/BuoyantIO/slow_cooker) - A load tester focused on lifecycle issues and long-running tests. `Go`
 * [__sniper__](https://github.com/btfak/sniper) - Powerful and high-performance HTTP load tester, written in `Go`.
+* [__spiko__](https://github.com/trinhminhtriet/spiko) - A fast, `Rust`-based load testing tool with a beautiful TUI for real-time insights.
 * [__stress__](https://github.com/yarax/stress) - Simple `Node.js` tool for stress testing HTTP services.
 * [__terjang__](https://github.com/andylibrian/terjang) - Scalable HTTP load testing tool built on [vegeta](https://github.com/tsenart/vegeta). `Go`
 * [__thrash__](https://github.com/TylerBrock/thrash) - `Go` HTTP micro benchmarker.
