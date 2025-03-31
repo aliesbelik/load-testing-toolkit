@@ -145,6 +145,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__dnsblast__](https://github.com/jedisct1/dnsblast) - A simple and stupid load testing tool for DNS resolvers. `C`
 * [__dnsmeter__](https://github.com/DNS-OARC/dnsmeter) - A tool for testing performance of nameservers and the infrastructure around it. `C++`
 * [__dnsperf__](https://github.com/DNS-OARC/dnsperf) - DNS performance testing tools. `C`
+* [__dnspyre__](https://github.com/Tantalor93/dnspyre) - A command-line DNS benchmark tool built to stress test and measure the performance of DNS servers. `Go`
 * [__dnstress__](https://github.com/safedns/dnstress) - A DNS stress testing tool. `C`
 * [__flamethrower__](https://github.com/DNS-OARC/flamethrower) - A DNS performance and functional testing utility, originally built as an alternative to [dnsperf](https://github.com/DNS-OARC/dnsperf). `C++`
 
