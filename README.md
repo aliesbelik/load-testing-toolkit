@@ -194,6 +194,10 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__memtier_benchmark__](https://github.com/RedisLabs/memtier_benchmark) - A high-throughput benchmarking tool for Redis & Memcached. `C++`
 * [__redisbench__](https://github.com/panjiang/redisbench) - Redis & Redis cluster benchmarking tool. `Go`
 
+### ntp
+
+* [__ntpperf__](https://github.com/mlichvar/ntpperf) - Tool for measuring performance of NTP servers and PTP masters.
+
 ### storage
 
 #### data store
