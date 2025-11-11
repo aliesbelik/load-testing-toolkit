@@ -276,6 +276,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__comcast__](https://github.com/tylertreat/comcast) -  A tool designed to simulate common network problems like latency, bandwidth restrictions, and dropped/reordered/corrupted packets. `Go`
 * [__speedbump__](https://github.com/kffl/speedbump) - A TCP proxy for simulating variable, yet predictable network latency. `Go`
 * [__toxiproxy__](https://github.com/Shopify/toxiproxy) - A TCP proxy to simulate network and system conditions for chaos and resiliency testing. `Go`
+* [__trixter__](https://github.com/brk0v/trixter) - A high‑performance, runtime‑tunable TCP chaos proxy written in `Rust`.
 
 ## Contribute
 
