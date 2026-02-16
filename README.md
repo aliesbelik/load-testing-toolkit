@@ -120,6 +120,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__stress__](https://github.com/yarax/stress) - Simple `Node.js` tool for stress testing HTTP services.
 * [__terjang__](https://github.com/andylibrian/terjang) - Scalable HTTP load testing tool built on [vegeta](https://github.com/tsenart/vegeta). `Go`
 * [__thrash__](https://github.com/TylerBrock/thrash) - `Go` HTTP micro benchmarker.
+* [__trunks__](https://github.com/tsenart/trunks) - A load testing tool written in `Rust`.
 * [__vegeta__](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. `Go`
 * [__vex__](https://github.com/vamsiikrishna/vex) - A small `PHP` app that sends some load to a web application.
 * [__weighttp__](https://github.com/lighttpd/weighttp) - A lightweight and simple webserver benchmarking tool. `C`
