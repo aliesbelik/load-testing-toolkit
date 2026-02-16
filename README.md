@@ -192,7 +192,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 ### nosql
 
-* [__memtier_benchmark__](https://github.com/RedisLabs/memtier_benchmark) - A high-throughput benchmarking tool for Redis & Memcached. `C++`
+* [__memtier_benchmark__](https://github.com/redis/memtier_benchmark) - A high-throughput benchmarking tool for Redis & Memcached. `C++`
 * [__redisbench__](https://github.com/panjiang/redisbench) - Redis & Redis cluster benchmarking tool. `Go`
 
 ### ntp
@@ -232,7 +232,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 * [__k8s-bench-suite__](https://github.com/InfraBuilder/k8s-bench-suite) - Simple scripts to benchmark Kubernetes cluster features. `Shell`
 * [__k8s-netperf__](https://github.com/jtaleric/k8s-netperf) - Running networking performance tests against Kubernetes. `Go`
-* [__k-bench__](https://github.com/vmware-tanzu/k-bench) - Workload benchmark for Kubernetes. `Go`
+* [__k-bench__](https://github.com/vmware/k-bench) - Workload benchmark for Kubernetes. `Go`
 * [__kboom__](https://github.com/mhausenblas/kboom) - The Kubernetes scale & soak load tester, equivalent of [boom](https://github.com/tarekziade/boom), written in `Go`.
 * [__kube-burner__](https://github.com/kube-burner/kube-burner) - A tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects. `Go`
 * [__kubestr__](https://github.com/kastenhq/kubestr) - A collection of tools to discover, validate and evaluate Kubernetes storage options. `Go`
@@ -267,7 +267,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 ## Traffic replay
 
-* [__goreplay__](https://github.com/buger/goreplay) - A network monitoring tool which can record live traffic, and use it for shadowing, load testing, monitoring and detailed analysis. `Go`
+* [__goreplay__](https://github.com/probelabs/goreplay) - A network monitoring tool which can record live traffic, and use it for shadowing, load testing, monitoring and detailed analysis. `Go`
 * [__ripley__](https://github.com/loveholidays/ripley) - HTTP traffic replay tool at multiples of the original rate. `Go`
 * [__shadowreader__](https://github.com/edmunds/shadowreader) - Serverless load testing tool for replaying website traffic by collecting traffic patterns from access logs, powered by AWS Lambda, S3 and ELB. `Python`
 * [__tcpcopy__](https://github.com/session-replay-tools/tcpcopy) - A TCP stream replay tool to support real testing of server applications. `C`
