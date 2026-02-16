@@ -26,7 +26,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__curlie__](https://github.com/rs/curlie) - The power of [curl](https://github.com/curl/curl), the ease of use of [httpie](https://github.com/httpie/cli). `Go`
 * [__curlx__](https://github.com/shivkanthb/curlx) - Supercharge [curl](https://github.com/curl/curl) with history, collections and more. `JavaScript`
 * [__hitt__](https://github.com/hougesen/hitt) - File based HTTP testing tool focused on speed and simplicity. `Rust`
-* [__hopp-cli__](https://github.com/hoppscotch/hopp-cli) - An HTTP CLI client for [hoppscotch](https://hoppscotch.io/), an alternative to [curl](https://github.com/curl/curl), [httpie](https://github.com/httpie/cli). `Go`
+* [__hopp-cli__](https://github.com/hoppscotch/hopp-cli) - A HTTP CLI client for [hoppscotch](https://hoppscotch.io/), an alternative to [curl](https://github.com/curl/curl), [httpie](https://github.com/httpie/cli). `Go`
 * [__httpcat__](https://github.com/httpie/httpcat) - A simple utility for constructing raw HTTP requests on the command line. `Python`
 * [__httpie__](https://github.com/httpie/cli) - Modern command line HTTP client, user-friendly [curl](https://github.com/curl/curl) alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. `Python`
 * [__httpie-go__](https://github.com/nojima/httpie-go) - [httpie](https://github.com/httpie/cli)-like HTTP client written in `Go`.
@@ -74,14 +74,14 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__gocannon__](https://github.com/kffl/gocannon) - A lightweight HTTP benchmarking tool, intended to measure changes in backend application performance over time. `Go`
 * [__gohttpbench__](https://github.com/parkghost/gohttpbench) - An [ab](https://httpd.apache.org/docs/current/programs/ab.html)-like benchmark tool run on multi-core cpu. `Go`
 * [__goku__](https://github.com/k-nasa/goku) - HTTP load testing application written in `Rust`.
-* [__goku-bench__](https://github.com/jcaromiq/goku) - An HTTP load testing tool built out of a need to drill HTTP services inspired by [drill](https://github.com/fcsonline/drill) and [vegeta](https://github.com/tsenart/vegeta). `Rust`
+* [__goku-bench__](https://github.com/jcaromiq/goku) - A HTTP load testing tool built out of a need to drill HTTP services inspired by [drill](https://github.com/fcsonline/drill) and [vegeta](https://github.com/tsenart/vegeta). `Rust`
 * [__goose__](https://github.com/tag1consulting/goose) - A `Rust` load testing tool inspired by [locust](https://github.com/locustio/locust).
 * [__gopayloader__](https://github.com/domsolutions/gopayloader) - HTTP/S benchmark/load testing cross-platform tool with optional JWT generation, inspired by [bombardier](https://github.com/codesenberg/bombardier). `Go`
 * [__goperf__](https://github.com/gnulnx/goperf) - `Go` based load tester with a simple intuitive command line syntax.
 * [__hargo__](https://github.com/mrichman/hargo) - `Go` library and command line utility that parses HAR files, can convert to [curl](https://github.com/curl/curl) format, and serve as a load test driver.
 * [__hey__](https://github.com/rakyll/hey) - HTTP load generator, [ab](https://httpd.apache.org/docs/current/programs/ab.html) replacement. `Go`
 * [__htstress__](https://github.com/arut/htstress) - Fast HTTP benchmarking tool, similar to [ab](https://httpd.apache.org/docs/current/programs/ab.html) but provides multithreading support. `C`
-* [__http_bench__](https://github.com/linkxzhou/http_bench) - An HTTP(/1/2/3) and WebSockets stress testing tool, with both single and distributed modes. `Go`
+* [__http_bench__](https://github.com/linkxzhou/http_bench) - A HTTP(/1/2/3) and WebSockets stress testing tool, with both single and distributed modes. `Go`
 * [__httperf__](https://github.com/httperf/httperf) - A tool for measuring web server performance. `C`
 * [__httpit__](https://github.com/gonetx/httpit) - A rapid HTTP/S benchmark tool, written in `Go`.
 * [__httpress__](https://github.com/virtuozzo/httpress) - High performance HTTP server stress & benchmark utility, inspired by [weighttp](https://github.com/lighttpd/weighttp). `C`
@@ -253,12 +253,13 @@ Feel free to follow and contribute to it instead of this collection, which remai
 > For educational and security/stress testing (as part of development) purposes only.
 
 * [__finshir__](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic sender, written in `Rust`.
+* [__golang-httpflood__](https://github.com/Leeon123/golang-httpflood) - A HTTP-flood attack tool written in `Go`.
 * [__golden-eye__](https://github.com/jseidl/GoldenEye) - HTTP DoS test tool using HTTP Keep Alive + NoCache as attack vector. `Python`
 * [__goloris__](https://github.com/valyala/goloris) - [Slowloris](https://github.com/gkbrk/slowloris) implementation for nginx DoS written in `Go`.
 * [__hulk__](https://github.com/grafov/hulk) - Original HULK web server DoS attack tool ported to `Go` with some additional features.
 * [__hulk-v3__](https://github.com/Hyperclaw79/HULK-v3) - `Python` 3 compatible async HULK script for DDoS attacks.
 * [__lor-axe__](https://github.com/ajmwagar/lor-axe) - A multi-threaded, low-bandwidth HTTP DoS tool, written in `Rust`.
-* [__rip__](https://github.com/bjarneo/rip) - An HTTP load testing and UDP flood attack tool. `Go`
+* [__rip__](https://github.com/bjarneo/rip) - A HTTP load testing and UDP flood attack tool. `Go`
 * [__slowhttptest__](https://github.com/shekyan/slowhttptest) - A highly configurable application layer DoS attack simulator. `C++`
 * [__slowloris__](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool, rewrite in `Python`.
 * [__wreckuests__](https://github.com/abriginets/wreckuests) - Yet another one hard-hitting tool to run DDoS attacks with HTTP-flood. `Python`
