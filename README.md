@@ -111,6 +111,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__rewrk__](https://github.com/lnx-search/rewrk) - A modern HTTP framework benchmarking utility supporting HTTP/1 and HTTP/2 benchmarks. `Rust`
 * [__rlt__](https://github.com/wfxr/rlt) - A universal load testing framework for `Rust`, with real-time TUI support.
 * [__salvo__](https://github.com/tarekziade/salvo) - Like [boom](https://github.com/tarekziade/boom), but based on [molotov](https://github.com/tarekziade/molotov). `Python`
+* [__sarin__](https://github.com/aykhans/sarin) - A high-performance HTTP load testing tool built with `Go` and fasthttp.
 * [__sb__](https://github.com/aliostad/SuperBenchmarker) - SuperBenchmarker, ApacheBench ([ab](https://httpd.apache.org/docs/current/programs/ab.html)) on steroids. `C#`
 * [__siege__](https://github.com/JoeDog/siege) - A HTTP load tester and benchmarking utility. `C`
 * [__slapper__](https://github.com/ikruglov/slapper) - Simple load testing tool with real-time updated histogram of request timings. `Go`
