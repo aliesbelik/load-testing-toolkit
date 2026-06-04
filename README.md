@@ -90,6 +90,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__iago2__](https://github.com/twitter/iago2) - A load generator, built for engineers. `Scala`
 * [__jbender__](https://github.com/pinterest/jbender) - A port of [bender](https://github.com/pinterest/bender) to the JVM platform with Quasar lightweight threads (fibers) and channels. `Java`
 * [__jetty-load-generator__](https://github.com/jetty-project/jetty-load-generator) - An API for load testing HTTP servers, based on Jetty's HttpClient and `Java` 11+.
+* [__kaioken__](https://github.com/lance0/kaioken) - Fast HTTP load testing with real-time TUI and built-in regression detection. `Rust`
 * [__legion__](https://github.com/lane-webperformance/legion) - A `JavaScript`-based load testing tool for HTTP servers and other kinds of software.
 * [__loadtest__](https://github.com/alexfernandez/loadtest) - A `JavaScript` package for load testing with HTTP/S and WebSockets support and API for easy integration.
 * [__loadtesttoolbox__](https://github.com/ecoAPM/LoadTestToolbox) - Lightweight tools for load testing web applications, written in `C#`.
