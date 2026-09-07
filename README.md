@@ -108,6 +108,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__ponos__](https://github.com/klarna/ponos) - Simple yet powerful load generator written in `Erlang`.
 * [__pounce__](https://github.com/fredrikwidlund/pounce) – HTTP benchmark utility, written in `C`.
 * [__pronk__](https://github.com/bos/pronk) - A small command line application for load testing web servers. `Haskell`
+* [__pywrkr__](https://github.com/kurok/pywrkr) - HTTP benchmarking CLI inspired by [ab](https://httpd.apache.org/docs/current/programs/ab.html) and [wrk](https://github.com/wg/wrk), with latency percentiles, virtual users, rate limiting, traffic profiles, HAR import, and pass/fail SLO thresholds for CI. `Python`
 * [__reqstress__](https://github.com/utkusen/reqstress) - A benchmarking & stressing tool that can send raw HTTP requests, written in `Go`.
 * [__rewrk__](https://github.com/lnx-search/rewrk) - A modern HTTP framework benchmarking utility supporting HTTP/1 and HTTP/2 benchmarks. `Rust`
 * [__rlt__](https://github.com/wfxr/rlt) - A universal load testing framework for `Rust`, with real-time TUI support.
