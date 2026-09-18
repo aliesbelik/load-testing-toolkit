@@ -33,6 +33,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__httping__](https://github.com/folkertvanheusden/httping) - A ping-like utility for HTTP requests. `C`
 * [__httpstat__](https://github.com/reorx/httpstat) - [curl](https://github.com/curl/curl) statistics visualization in a way of beauty and clarity. `Python`
 * [__hurl__](https://github.com/Orange-OpenSource/hurl) - A command line tool to perform HTTP requests defined in a simple plain text format. `Rust`
+* [__lazycurl__](https://github.com/kbrdn1/LazyCurl) - A powerful TUI HTTP client. `Go`
 * [__wuzz__](https://github.com/asciimoo/wuzz) - Interactive command line tool for HTTP inspection. `Go`
 * [__xh__](https://github.com/ducaale/xh) – Yet another [httpie](https://github.com/httpie/cli) clone in `Rust`.
 
@@ -102,7 +103,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__netling__](https://github.com/hallatore/netling) - Load testing client for easy web testing. `C#`
 * [__node-ab__](https://github.com/doubaokun/node-ab) - A command line tool to test the performance of HTTP services. `Node.js`
 * [__node-vegeta__](https://github.com/jbarabander/node-vegeta) - `Node.js` bindings for the [vegeta](https://github.com/tsenart/vegeta) load testing library.
-* [__oha__](https://github.com/hatoo/oha) - HTTP load generator, inspired by [hey](https://github.com/rakyll/hey) with tui animation. `Rust`
+* [__oha__](https://github.com/hatoo/oha) - HTTP load generator, inspired by [hey](https://github.com/rakyll/hey) with TUI animation. `Rust`
 * [__pandora__](https://github.com/yandex/pandora) - A load generator in `Go`, with built-in HTTP/S and HTTP/2 support and load scenarios in `Go`.
 * [__pewpew__](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester for websites and web services. `Go`
 * [__plow__](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying. `Go`
