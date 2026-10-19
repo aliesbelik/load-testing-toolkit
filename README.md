@@ -217,6 +217,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__diskspd__](https://github.com/microsoft/diskspd) - A storage performance testing tool from the Windows, Windows Server and Cloud Server Infrastructure engineering teams at Microsoft. `C++`
 * [__fio__](https://github.com/axboe/fio) - Flexible I/O tester. `C`
 * [__ioarena__](https://github.com/pmwkaa/ioarena) - Embedded storage benchmarking tool. `C`
+* [__vhr-bench__](https://github.com/vpshostreview/vhr-vps-benchmark) - One-minute Linux server benchmark wrapping fio 4k random read and write IOPS plus sysbench CPU and memory tests. `Shell`
 
 #### object storage
 
