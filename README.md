@@ -22,6 +22,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 
 * [__baloo__](https://github.com/h2non/baloo) - Expressive and versatile end-to-end HTTP API testing made easy in `Go`.
 * [__bat__](https://github.com/astaxie/bat) - A [curl](https://github.com/curl/curl)-like tool for humans, inspired by [httpie](https://github.com/httpie/cli), written in `Go`.
+* [__check-proxy-tax__](https://github.com/600me/check-proxy-tax) - Proxy sampling CLI that reports the usable-success rate, p50/p95 latency and the effective cost per 1,000 usable requests. `Python`
 * [__curl__](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax. `C`
 * [__curlie__](https://github.com/rs/curlie) - The power of [curl](https://github.com/curl/curl), the ease of use of [httpie](https://github.com/httpie/cli). `Go`
 * [__curlx__](https://github.com/shivkanthb/curlx) - Supercharge [curl](https://github.com/curl/curl) with history, collections and more. `JavaScript`
