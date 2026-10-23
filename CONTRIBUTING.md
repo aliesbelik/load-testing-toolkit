@@ -2,7 +2,7 @@
 
 Your contributions are always welcome!
 
-Feel free to new tools to the collection.\
+Feel free to add new tools to the collection.\
 Anyone can contribute to this list, just make sure you follow the below [guidelines](#guidelines).\
 For contributing, [open an issue](https://github.com/aliesbelik/load-testing-toolkit/issues) and/or [create a pull request](https://github.com/aliesbelik/load-testing-toolkit/pulls).
 
