@@ -191,6 +191,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__mzbench__](https://github.com/mzbench/mzbench) - Expressive, scalable load testing tool, with multiple protocols support. `Erlang`
 * [__ngrinder__](https://github.com/naver/ngrinder) - Enterprise level performance testing solution based on [The Grinder](https://github.com/cossme/grinder). `Java`
 * [__predator__](https://github.com/Zooz/predator) - A distributed open-source platform for load testing APIs using custom version of [artillery](https://github.com/artilleryio/artillery) as load testing engine. `Node.js`
+* [__stampede__](https://github.com/mandar1045/stampede) - Distributed load testing for Phoenix apps, with built-in Channels, LiveView, HTTP and WebSocket support. `Elixir`
 * [__tank__](https://github.com/intuit/Tank) - A cloud native load testing platform. `Java`
 * [__tsung__](https://github.com/processone/tsung) - A multi-protocol distributed load testing tool, developed in `Erlang`.
 * [__yandex-tank__](https://github.com/yandex/yandex-tank) - An extendable load testing tool which is especially good as a part of an automated load testing suite. `Python`, `C`
