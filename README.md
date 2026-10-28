@@ -144,6 +144,7 @@ Feel free to follow and contribute to it instead of this collection, which remai
 * [__rtmp_load__](https://github.com/fillest/rtmp_load) - A load testing tool for RTMP servers. `C`
 * [__srs-bench__](https://github.com/ossrs/srs-bench) - A HTTP/RTMP/HLS load testing and benchmarking tool. `C++`
 * [__ssh-hammer__](https://github.com/shazow/ssh-hammer) - A SSH load testing tool. `Go`
+* [__telegym__](https://github.com/kolomiichenko/telegym) - Load testing kit for Telegram bots: a drop-in Bot API mock driven by k6 virtual users. `Go`
 
 #### dns
 
